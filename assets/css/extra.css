@@ -1,3 +1,24 @@
+/* Adjust heading colors for better visibility */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffd700 !important; /* Use Light Gold for all headings */
+    font-weight: bold;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.7); /* Subtle shadow to pop the text */
+}
+
+/* Specific color for H1 */
+h1 {
+    color: #ffdf00 !important; /* Ensure H1 titles get a distinct gold color */
+    font-size: 2.6em;
+}
+
+/* Override any inherited black color */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffdf00 !important; /* Force all headings to have light gold color */
+    font-weight: bold;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.7); /* Keep the shadow for depth */
+}
+
+
 /* Dark, atmospheric background */
 body {
     background-color: #1f1f1f;
