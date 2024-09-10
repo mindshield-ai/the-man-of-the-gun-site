@@ -12,15 +12,15 @@
         <meta name="author" content="MindShield Studio">
 
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-            <link rel="stylesheet" href="/assets/css/darcula-highlight.min.css">
+            <link rel="stylesheet" href="./assets/css/darcula-highlight.min.css">
 
-        <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/assets/css/dracula-ui.min.css">
-        <link rel="stylesheet" href="/assets/css/mkdocs.min.css">
-            <link href="/assets/css/extra.css" rel="stylesheet">
+        <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./assets/css/dracula-ui.min.css">
+        <link rel="stylesheet" href="./assets/css/mkdocs.min.css">
+            <link href="./assets/css/extra.css" rel="stylesheet">
 
         
-            <link  rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
+            <link  rel="icon" type="image/x-icon" href="./assets/img/favicon.ico">
         
             <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
                 <script>hljs.initHighlightingOnLoad();</script>
@@ -67,14 +67,14 @@
         <ul class="mb-5 drac-list drac-list-none">
             
             <li class="drac-box">
-                <a href="/."
+                <a href="./."
                     class="
                     drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
                     Home
                 </a>
             </li>
             <li class="drac-box">
-                <a href="/."
+                <a href="./."
                     class="
                     drac-anchor btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
                     data-bs-toggle="collapse" data-bs-target="#about-the-game-collapse" aria-expanded="false">
@@ -84,7 +84,7 @@
                     <ul class="mb-5 drac-list drac-list-none">
                             
     <li class="drac-box-ternary">
-        <a href="/about/story/"
+        <a href="./about/story/"
             class="
             drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
             Story
@@ -92,7 +92,7 @@
     </li>
                             
     <li class="drac-box-ternary">
-        <a href="/about/characters/"
+        <a href="./about/characters/"
             class="
             drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
             Characters
@@ -102,7 +102,7 @@
                 </div>
             </li>
             <li class="drac-box">
-                <a href="/."
+                <a href="./."
                     class="
                     drac-anchor btn-toggle d-inline-flex align-items-center border-0 drac-text-purple--hover collapsed"
                     data-bs-toggle="collapse" data-bs-target="#media-collapse" aria-expanded="false">
@@ -112,7 +112,7 @@
                     <ul class="mb-5 drac-list drac-list-none">
                             
     <li class="drac-box-ternary">
-        <a href="/media/trailers/"
+        <a href="./media/trailers/"
             class="
             drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
             Trailers
@@ -120,7 +120,7 @@
     </li>
                             
     <li class="drac-box-ternary">
-        <a href="/media/gallery/"
+        <a href="./media/gallery/"
             class="
             drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
             Gallery
@@ -128,7 +128,7 @@
     </li>
                             
     <li class="drac-box-ternary">
-        <a href="/media/dev-diaries.md"
+        <a href="./media/dev-diaries.md"
             class="
             drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
             Developer Diaries
@@ -138,7 +138,7 @@
                 </div>
             </li>
             <li class="drac-box">
-                <a href="/contact/"
+                <a href="./contact/"
                     class="
                     drac-anchor d-inline-flex align-items-center border-0 drac-text-purple--hover">
                     Contact
@@ -174,7 +174,7 @@
 
                     <!-- block search -->
                     <li class="nav-item"><div role="search" class="search-box">
-	<form id="rtd-search-form" class="wy-form" action="//search.html" method="get">
+	<form id="rtd-search-form" class="wy-form" action="./search.html" method="get">
 		<input type="text" name="q" class="drac-input drac-input-search drac-input-white drac-text-white drac-bg-black-secondary"
 		placeholder="Search docs" title="Type search term here" />
 	</form>
@@ -197,14 +197,24 @@
             <!-- endblock -->
 
             <!-- block content -->
-    <section class="p-md-5 section-content">
-        <article>
-            <p></p>
-            <h1>404</h1>
-            <hr>
-            <p><strong>Page not found</strong></p>
-        </article>
-    </section>
+	<section class="p-md-5 content-search">
+		<article>
+			<p></p>
+			<h1 id="search">Search Results</h1>
+			<hr>
+
+			<form id="content_search" action="search.html">
+				<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+				<input name="q" id="mkdocs-search-query" type="text" class="drac-input drac-input-purple drac-text-white search_input search-query ui-autocomplete-input"
+					placeholder="Search the Docs" autocomplete="off" autofocus title="Type search term here">
+			</form>
+			
+			<div id="mkdocs-search-results" class="search-results" data-no-results-text="No results found">
+				Searching...
+			</div>
+
+		</article>
+	</section>
 
             <!-- endblock -->
 
@@ -222,11 +232,11 @@
 
     </main>
 
-        <script>var base_url = '/';</script>
-        <script src="/assets/js/jquery-3.3.1.slim.min.js"></script>
-        <script src="/assets/js/bootstrap.bundle.min.js"></script>
-        <script src="/assets/js/mkdocs.js"></script>
-			<script src="/search/main.js" defer></script>
+        <script>var base_url = '.';</script>
+        <script src="./assets/js/jquery-3.3.1.slim.min.js"></script>
+        <script src="./assets/js/bootstrap.bundle.min.js"></script>
+        <script src="./assets/js/mkdocs.js"></script>
+			<script src="./search/main.js" defer></script>
 
 </body>
 
