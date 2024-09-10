@@ -377,3 +377,18 @@ header .md-header__inner .md-header__search {
 .md-nav__link, .md-sidebar__title {
     padding: 10px 15px; /* Add a bit of padding for better alignment */
 }
+
+/* Remove the default "Made with Material for MkDocs" footer */
+.md-footer-meta {
+    display: none !important;  /* Hide the default footer */
+}
+
+/* Add custom footer text */
+.md-footer:after {
+    content: "Powered by MindShield";  /* Your custom footer message */
+    display: block;
+    text-align: center;
+    font-size: 0.9em;
+    color: #d3d3d3;  /* Light gray text */
+    padding-top: 1em;
+}
