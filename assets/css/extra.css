@@ -1,24 +1,3 @@
-/* Adjust heading colors for better visibility */
-h1, h2, h3, h4, h5, h6 {
-    color: #ffd700 !important; /* Use Light Gold for all headings */
-    font-weight: bold;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.7); /* Subtle shadow to pop the text */
-}
-
-/* Specific color for H1 */
-h1 {
-    color: #ffdf00 !important; /* Ensure H1 titles get a distinct gold color */
-    font-size: 2.6em;
-}
-
-/* Override any inherited black color */
-h1, h2, h3, h4, h5, h6 {
-    color: #ffdf00 !important; /* Force all headings to have light gold color */
-    font-weight: bold;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.7); /* Keep the shadow for depth */
-}
-
-
 /* Dark, atmospheric background */
 body {
     background-color: #1f1f1f;
@@ -52,88 +31,127 @@ body {
 .md-nav__link--active {
     background-color: #3b3b3b;  /* Dark gray for active section */
     color: #f0f0f0;  /* Light gray for the active section text */
-    border-left: 3px solid #8a4b6d;  /* Thin subtle accent border on the left */
+    border-left: 3px solid #ff99cc;  /* Thin subtle pink accent border */
 }
 
 /* Adjust heading colors for better visibility */
 h1, h2, h3, h4, h5, h6 {
-    color: #f0f0f0;
+    color: #ffd700 !important; /* Use Light Gold for all headings */
     font-weight: bold;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.7); /* Subtle shadow to pop the text */
+}
+
+/* Specific color for H1 */
+h1 {
+    color: #ffdf00 !important; /* Ensure H1 titles get a distinct gold color */
+    font-size: 2.6em;
+}
+
+/* Override any inherited black color */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffdf00 !important; /* Force all headings to have light gold color */
+    font-weight: bold;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.7); /* Keep the shadow for depth */
 }
 
 /* Subtle link color */
 a {
-    color: #8a4b6d;
+    color: #ff99cc; /* Subtle pinkish link */
 }
 
 a:hover {
-    color: #a15c82;  /* Slightly lighter on hover */
+    color: #ffb3d9;  /* Slightly lighter pink on hover */
 }
 
 /* Button styling */
 button {
-    background-color: #3b3b3b;
-    color: #e5e5e5;
-    border: 1px solid #8a4b6d;
+    background-color: #ff99cc; /* Pinkish background for button */
+    color: #2a2a2a; /* Dark text on the button for contrast */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-weight: bold; /* Make the text stand out */
 }
 
-/* Change header and navbar color */
-.md-header, .md-header-nav {
-    background-color: #2b2b2b;  /* Dark gray for a subtler look */
+/* Hover effect for the button */
+button:hover {
+    background-color: #e68abf; /* Lighter pink on hover */
 }
 
-/* Improve paragraph readability */
-p {
-    color: #d9d9d9;  /* Softer gray for text */
-    line-height: 1.6;  /* Increase line spacing for readability */
-    font-size: 1.1em;  /* Slightly increase font size */
+/* Form styling */
+form {
+    background-color: #2a2a2a; /* Dark form background */
+    padding: 20px; /* Padding for spacing */
+    border-radius: 10px; /* Rounded edges */
+    border: 1px solid #ff99cc; /* Subtle pink border */
+    max-width: 600px; /* Larger form */
+    margin: 20px auto; /* Center the form on the page */
 }
 
-/* Lighten and enhance title styling */
-h1 {
-    color: #f0f0f0;  /* Light gray for visibility */
-    font-weight: bold;
-    font-size: 2.5em;  /* Increase size to stand out */
+/* Form input styling */
+input[type="text"], input[type="email"], textarea {
+    width: 100%; /* Make inputs fill the form */
+    padding: 15px; /* Padding for larger inputs */
+    margin-bottom: 15px; /* Spacing between inputs */
+    background-color: #1f1f1f; /* Dark input background */
+    border: 1px solid #ff99cc; /* Pinkish border */
+    color: #ffffff; /* Light text */
+    border-radius: 5px; /* Slightly rounded inputs */
 }
 
-/* Subtle hover effect for sidebar links */
-.md-nav__link:hover {
-    background-color: #2e2e2e;  /* Dark gray background on hover */
-    color: #f0f0f0;  /* Lighten text slightly */
+/* Change input focus styling */
+input[type="text"]:focus, input[type="email"]:focus, textarea:focus {
+    border-color: #ffb3d9; /* Lighter pink when focused */
+    outline: none;
 }
 
-/* Adjust search bar color */
-.md-search__input {
-    background-color: #2b2b2b;  /* Darken the search input background */
-    color: #e5e5e5;  /* Light gray text */
+/* Submit button specific styling */
+input[type="submit"] {
+    background-color: #ff99cc; /* Pinkish background */
+    color: #2a2a2a; /* Dark text */
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    font-size: 1.2em; /* Larger text */
+    margin-top: 10px;
+    border-radius: 5px; /* Rounded button */
 }
 
-/* Darken footer background */
-.md-footer {
-    background-color: #1f1f1f;  /* Dark background for footer */
-    color: #d3d3d3;  /* Light gray text */
+/* Submit button hover effect */
+input[type="submit"]:hover {
+    background-color: #e68abf; /* Lighter pink on hover */
 }
 
-/* Adjust margins and padding for a cleaner layout */
-.md-main__inner {
-    padding: 2em 3em;  /* More padding around the content */
+/* Styling for success message in contact form */
+#form-response {
+    display: none;
+    font-size: 1.2em; /* Larger text */
+    background-color: #2a2a2a; /* Keep dark background for consistency */
+    padding: 15px;
+    border-radius: 10px;
+    color: #ff99cc !important; /* Pinkish text for the message */
+    border: 1px solid #ff99cc; /* Add a pinkish border */
+    margin-top: 20px;
+    text-align: center;
 }
 
-/* Adjust heading (h1) color and size for visibility */
-h1, h2, h3 {
-    color: #ffffff;  /* Set to pure white for better contrast */
-    font-weight: 700;  /* Ensure it's bold */
-    font-size: 2.8em;  /* Increase font size for emphasis */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);  /* Add subtle shadow for better readability */
+/* Styling for the "Your message has been sent" success message */
+#form-response.success {
+    display: block;
+    font-size: 1.2em;
+    background-color: #2a2a2a;  /* Dark background for the success message */
+    color: #ff99cc !important;  /* Pinkish text for the success message */
+    border: 1px solid #ff99cc;  /* Pinkish border */
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
 }
 
-/* Remove any underline or background in the sidebar */
-.md-nav__title {
-    background-color: transparent !important;  /* Remove any background color */
-    color: #e5e5e5;  /* Match the color with other elements */
-    box-shadow: none !important;  /* Remove any shadow or fade effects */
-    text-decoration: none !important;  /* Remove any underline */
-    border-bottom: none !important;  /* Ensure no bottom border */
+/* Prevent duplicated search bar */
+.md-header__search {
+    display: none !important;  /* Hide the extra search bar */
 }
 
 /* Ensure uniform heading styles */
@@ -173,49 +191,189 @@ a:hover {
     text-decoration: underline;  /* Add an underline for visibility */
 }
 
-/* Increase padding around content for cleaner layout */
-.md-main__inner {
-    padding: 2em 3em;  /* More padding around the content */
+/*
+/* Hide the extra search bar by targeting specific elements */
+header .md-header__inner .md-header__search {
+    display: none !important;  /* Ensure no duplicate search bar is visible */
 }
 
-section {
-    margin-bottom: 2em;  /* Add more space between sections */
+/* Alternatively, adjust positioning or remove unwanted search instances */
+.md-search__input-container {
+    display: none !important; /* Hide search bar input container */
 }
 
-/* Adjust footer styling */
-.md-footer {
-    background-color: #111111;  /* Make the footer even darker */
-    color: #d3d3d3;  /* Lighter text for readability */
-    padding: 1.5em 0;  /* Add some padding */
+/* Adjust other search bar styling if needed */
+.md-search {
+    display: none !important;  /* Hide any remaining search elements */
 }
 
-/* Remove the "Made with Material for MkDocs" footer text */
-.md-footer-meta {
-    display: none !important;  /* Completely hide the footer text */
+/* Ensure uniform layout and search behavior */
+.md-header__search, .md-search {
+    display: none !important;  /* This should hide the duplicated search instance */
 }
 
-/* Update footer text */
-.md-footer:after {
-    content: "Powered by MindShield";
-    display: block;
-    text-align: center;
-    font-size: 0.9em;
+/* General search bar appearance */
+.md-header__search {
+    margin-right: 1rem; /* Adds space from the edge of the header */
 }
 
-/* Add subtle dividers between sections */
-section {
-    border-bottom: 1px solid #333333;  /* Dark gray line for subtle separation */
-    margin-bottom: 2em;
-    padding-bottom: 1em;
+.md-search__input {
+    background-color: #2f2f2f;  /* Dark gray background for the input field */
+    color: #ffffff;  /* White text for input */
+    border: 1px solid #8a4b6d; /* Match the subtle pink highlight color */
+    padding: 0.5rem;  /* Add some padding for a better feel */
+    border-radius: 4px;  /* Soft rounded edges */
 }
 
-/* Add subtle border and shadow to images */
-img {
-    border: 1px solid #444444;  /* Subtle border */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);  /* Add a slight shadow */
-    max-width: 80%;
-    margin: 1.5em 0;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.md-search__input:focus {
+    border-color: #ffd700;  /* Gold highlight when the input is focused */
+    outline: none;
+    background-color: #383838; /* Slightly darker background on focus */
+}
+
+/* Placeholder text for search */
+.md-search__input::placeholder {
+    color: #d1d1d1;  /* Light gray for placeholder text */
+}
+
+/* Styling for the search suggestions dropdown */
+.md-search__result {
+    background-color: #2f2f2f;  /* Dark background for the dropdown */
+    border: 1px solid #8a4b6d;  /* Match the pinkish border color */
+    border-radius: 4px;  /* Slightly rounded corners */
+}
+
+.md-search__result-item {
+    color: #f0f0f0;  /* White text for results */
+    padding: 0.5rem;  /* Add padding to results */
+}
+
+.md-search__result-item:hover {
+    background-color: #3b3b3b;  /* Highlight search result on hover */
+    color: #ffd700;  /* Gold text on hover */
+}
+
+/* Ensure the search bar sits properly within the header */
+.md-header__search {
+    display: inline-block;  /* Ensure it stays inline with other elements */
+    margin-left: auto;  /* Pushes the search bar to the far right */
+    padding: 0.5rem;
+}
+
+/* Adjust the size to better fit the theme */
+.md-search__input {
+    width: 200px;  /* Make the input field a bit wider */
+    height: 2rem;  /* Adjust the height of the input */
+}
+
+/* Hide the extra search bar by targeting specific elements */
+header .md-header__inner .md-header__search {
+    display: none !important;  /* Ensure no duplicate search bar is visible */
+}
+
+/* Alternatively, adjust positioning or remove unwanted search instances */
+.md-search__input-container {
+    display: none !important; /* Hide search bar input container */
+}
+
+/* Adjust other search bar styling if needed */
+.md-search {
+    display: none !important;  /* Hide any remaining search elements */
+}
+
+/* Ensure uniform layout and search behavior */
+.md-header__search, .md-search {
+    display: none !important;  /* This should hide the duplicated search instance */
+}
+
+/* Header Styling */
+.md-header, .md-header-nav {
+    background-color: #1c1f26;  /* Darker background */
+}
+
+/* Navigation Title */
+.md-header-nav__title {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.md-header-nav__title:hover {
+    color: #ffdd57; /* Slight hover effect */
+}
+
+/* Navigation Link */
+.md-nav__link {
+    color: #c1c1c1;
+    background-color: transparent;
+}
+
+.md-nav__link:hover {
+    color: #ffdd57;
+}
+
+/* Active Link */
+.md-nav__link--active {
+    background-color: #292c36;
+    color: #ffdd57; /* Gold active link */
+    border-left: 3px solid #ffdd57;  /* Gold left border for active link */
+}
+
+/* Sidebar Link Hover */
+.md-nav__link:hover {
+    background-color: #292c36;  /* Dark gray background on hover */
+    color: #ffdd57;  /* Lighten text */
+}
+
+/* Sidebar Active Link */
+.md-nav__link--active {
+    background-color: #3b3e47;
+    color: #ffdd57; /* Gold for active section text */
+    border-left: 3px solid #ffdd57; /* Gold accent for active section */
+}
+
+/* Search Bar Styling */
+.md-search__input {
+    background-color: #1c1f26;  /* Same as the header */
+    border: 1px solid #3b3e47;  /* Subtle border */
+    color: #ffffff;  /* White text */
+}
+
+.md-search__input::placeholder {
+    color: #c1c1c1;  /* Light gray placeholder text */
+}
+
+/* Search Bar Focused State */
+.md-search__input:focus {
+    border: 1px solid #ffdd57;  /* Gold border on focus */
+    outline: none;
+}
+
+/* Remove white background from selected sections */
+.md-nav__title, .md-nav__link--active, .md-sidebar__title {
+    background-color: transparent !important; /* Removes background color */
+    color: #e5e5e5 !important; /* Ensure text color is consistent */
+    box-shadow: none !important; /* Remove any shadow or fade effects */
+    text-decoration: none !important; /* Ensure no underline */
+}
+
+/* Adjust sidebar links hover effect */
+.md-nav__link:hover, .md-nav__title:hover, .md-sidebar__title:hover {
+    background-color: #2e2e2e !important; /* Darken on hover */
+    color: #d3d3d3 !important; /* Lighten text color on hover */
+}
+
+/* Remove any box-shadow or borders from active or hovered titles */
+.md-nav__link--active, .md-nav__title--active, .md-sidebar__title--active {
+    box-shadow: none !important; /* Ensure no shadow or background remains */
+    border-left: 3px solid #8a4b6d; /* Optional: Add a subtle border for the active section */
+}
+
+/* Ensure text color consistency */
+.md-nav__link, .md-sidebar__title {
+    color: #e5e5e5 !important; /* Ensure all text remains the correct color */
+}
+
+/* Optional: Adjust padding to better align the text */
+.md-nav__link, .md-sidebar__title {
+    padding: 10px 15px; /* Add a bit of padding for better alignment */
 }
