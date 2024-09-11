@@ -94,11 +94,18 @@ button:hover {
     text-align: center;
 }
 
+.md-footer-meta {
+    display: none !important; /* Hide the default "Made with..." */
+}
+
+/* Add new footer content */
 .md-footer:after {
     content: "Powered by MindShield";
     display: block;
-    color: #bd93f9;  /* Dracula purple */
+    text-align: center;
+    color: #ff79c6;  /* Dracula pink */
     font-size: 0.9em;
+    margin-top: 1em;
 }
 
 /* Heading styles */
@@ -185,21 +192,6 @@ th {
 
 td {
     background-color: #282a36;
-}
-
-/* Hide the default footer */
-.md-footer-meta {
-    display: none !important; /* Hide the default "Made with..." */
-}
-
-/* Add a new footer content */
-.md-footer:after {
-    content: "Powered by MindShield";
-    display: block;
-    text-align: center;
-    color: #ff79c6;  /* Dracula pink */
-    font-size: 0.9em;
-    margin-top: 1em;
 }
 
 /* Hide the color swatches under the site title */
