@@ -4,19 +4,11 @@ body {
     color: #f8f8f2;  /* Dracula theme text color */
 }
 
-/* Adjust heading colors to match Dracula's default theme */
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
     color: #ff79c6; /* Dracula's pink for titles */
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);  /* Adds depth to text */
-}
-
-/* Customize paragraph readability */
-p {
-    color: #f8f8f2;
-    line-height: 1.7;
-    font-size: 1.1em;
-    margin-bottom: 1.5em;
 }
 
 /* Links */
@@ -50,42 +42,6 @@ button:hover {
     color: #f8f8f2;  /* Light text */
 }
 
-/* Navigation bar title */
-.md-header-nav__title {
-    color: #f8f8f2;  /* Light text color */
-    font-weight: bold;
-    font-size: 1.8em;
-}
-
-.md-header-nav__title:hover {
-    color: #ff79c6;  /* Highlight on hover */
-}
-
-/* Sidebar Navigation */
-.md-nav__link {
-    color: #f8f8f2;
-    background-color: transparent;
-}
-
-.md-nav__link:hover {
-    background-color: #44475a;  /* Slightly darker hover for sidebar */
-    color: #ff79c6;  /* Dracula's pink hover color */
-}
-
-/* Active link in the sidebar */
-.md-nav__link--active {
-    background-color: #6272a4;  /* Active section highlighted */
-    color: #ff79c6;
-    border-left: 3px solid #ff79c6;  /* Thin pink border for active section */
-}
-
-/* Adjust search bar color */
-.md-search__input {
-    background-color: #282a36;
-    color: #f8f8f2;
-    border: 1px solid #ff79c6;
-}
-
 /* Footer */
 .md-footer {
     background-color: #282a36;
@@ -94,107 +50,9 @@ button:hover {
     text-align: center;
 }
 
-.md-footer-meta {
-    display: none !important; /* Hide the default "Made with..." */
-}
-
-/* Add new footer content */
 .md-footer:after {
     content: "Powered by MindShield";
     display: block;
-    text-align: center;
-    color: #ff79c6;  /* Dracula pink */
+    color: #bd93f9;  /* Dracula purple */
     font-size: 0.9em;
-    margin-top: 1em;
-}
-
-/* Heading styles */
-h1 {
-    color: #ff79c6;  /* Main headings in Dracula pink */
-    font-size: 2.5em;
-    margin-bottom: 0.5em;
-}
-
-h2 {
-    color: #bd93f9;  /* Subheadings in Dracula purple */
-    font-size: 2em;
-    margin-bottom: 0.3em;
-}
-
-h3, h4, h5, h6 {
-    color: #50fa7b;  /* Secondary headings in Dracula green */
-    font-size: 1.5em;
-}
-
-/* Image Styling */
-img {
-    max-width: 100%;  /* Ensure images fill their containers */
-    height: auto;
-    border: 1px solid #ff79c6;  /* Light border around images */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);  /* Slight shadow for depth */
-    margin: 1.5em 0;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;  /* Center images */
-}
-
-/* Section Styling */
-section {
-    background-color: #282a36;
-    padding: 20px;
-    margin-bottom: 2em;
-    border-left: 5px solid #ff79c6;  /* Pink left border for visual separation */
-}
-
-/* Code blocks (if applicable) */
-pre {
-    background-color: #44475a;
-    color: #f8f8f2;
-    padding: 10px;
-    border-radius: 4px;
-    font-size: 1em;
-    overflow-x: auto;
-}
-
-/* Blockquotes */
-blockquote {
-    border-left: 5px solid #ff79c6;
-    padding-left: 15px;
-    color: #f8f8f2;
-    background-color: #44475a;
-    font-style: italic;
-}
-
-/* Adjust margins and padding for a cleaner layout */
-.md-main__inner {
-    padding: 2em 3em;
-}
-
-/* Table styling */
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 1.5em 0;
-    background-color: #44475a;
-    color: #f8f8f2;
-}
-
-th, td {
-    padding: 10px;
-    border: 1px solid #bd93f9;
-}
-
-th {
-    background-color: #6272a4;
-    color: #f8f8f2;
-    font-weight: bold;
-}
-
-td {
-    background-color: #282a36;
-}
-
-/* Hide the color swatches under the site title */
-.md-header-nav__title::after {
-    display: none !important;
 }
