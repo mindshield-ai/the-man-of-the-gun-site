@@ -1,0 +1,28 @@
+site_name: The Man of The Gun
+site_description: A dark, narrative-driven action game
+site_author: MindShield Studios
+
+theme:
+  name: 'material'
+
+nav:
+  - Home: index.md
+  - About the Game:
+      - Story: about/story.md
+      - Characters: about/characters.md
+  - Media:
+      - Trailers: media/trailers.md
+      - Gallery: media/gallery.md
+  - Contact: contact.md
+
+plugins:
+  - search
+
+extra_css:
+  - assets/css/custom.css
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
