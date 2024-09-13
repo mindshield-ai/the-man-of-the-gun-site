@@ -1,6 +1,7 @@
 site_name: The Man of The Gun
 site_description: A dark, narrative-driven action game
 site_author: MindShield Studios
+site_url: https://tmotg.minshield.ai
 
 theme:
   name: 'simple-blog'
@@ -13,6 +14,8 @@ nav:
   - Media:
       - Trailers: media/trailers.md
       - Gallery: media/gallery.md
+      - Development Updates: media/dev-updates.md
+
   - Contact: contact.md
 
 plugins:
