@@ -3,7 +3,7 @@ site_description: A dark, narrative-driven action game
 site_author: MindShield Studios
 
 theme:
-  name: 'material'
+  name: 'simple-blog'
 
 nav:
   - Home: index.md
@@ -19,10 +19,10 @@ plugins:
   - search
 
 extra_css:
-  - assets/css/custom.css
+  - assets/css/extra.css
 
 markdown_extensions:
   - admonition
   - codehilite
   - toc:
-      permalink: true
+      permalink: false

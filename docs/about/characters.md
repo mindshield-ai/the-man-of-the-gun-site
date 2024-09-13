@@ -1,4 +1,4 @@
-# Characters
+
 
 ## Clayton Harrow  
 *(coming soon)*  

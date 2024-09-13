@@ -1,3 +1,3 @@
-# Gallery
+
 
 Gallery is coming soon...
