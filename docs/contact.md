@@ -26,7 +26,7 @@ For inquiries, you can also send an email to:
 
 ## Follow Us
 
-- **YouTube**: [The Man of The Gun](https://www.youtube.com/@TheManofTheGun)
-- **X (placeholder)**: Stay tuned for updates.
+- [**YouTube**](https://www.youtube.com/@TheManofTheGun)
+- [**X**](https://x.com/TheManofTheGun)
 
 More channels coming soon...
