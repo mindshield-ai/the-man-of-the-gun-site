@@ -1,7 +1,8 @@
 
 
 ## Clayton Harrow  
-*(coming soon)*  
+*(coming soon)*
+
 Clayton Harrow is a disillusioned, middle-aged bureaucrat trapped in a life devoid of purpose. After discovering the existence of the SCN, he embarks on a journey that forces him to confront not only the forces manipulating reality but also the darkness within himself. His body and mind are corrupted, gradually transformed into a software-like entity, constantly fighting the SCN’s influence.
 
 ---
