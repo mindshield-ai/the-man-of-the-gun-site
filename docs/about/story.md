@@ -1,3 +1,5 @@
+
+
 ## Intro to The Story of The Man of The Gun
 
 Clayton Harrow, a once mundane bureaucrat, begins his descent into a chaotic, unpredictable world—a world woven with threads that transcend human understanding. Burdened by a life of routine and disillusionment, Clayton drifts through his existence, numb to purpose, culture, and human connection. But his awakening comes when he inadvertently stumbles upon a secret, hidden layer of reality known as the Soul Communication Network (SCN).
@@ -14,8 +16,6 @@ The deeper Clayton delves into the SCN’s mysteries, the more he understands th
 
 Ultimately, Clayton must decide: continue serving as a cog in the network, manipulated by unseen forces, or break free and risk tearing apart the very fabric of the SCN, even if it means losing his humanity entirely.
 
-## Prologue: Echoes of the Unseen
 
-In a world much like our own, where technology and routine dictate the flow of daily life, there exists a hidden layer of reality known only to a select few. This layer, the Soul Communication Network (SCN), is an ancient, metaphysical web that influences thoughts, emotions, and the very essence of existence. Unbeknownst to the masses, the SCN has been both a source of enlightenment and a tool for manipulation throughout human history.
-In the sprawling metropolis of New Elysium, technology and routine dictate the flow of life. Advanced AI systems, operating from unseen servers and backends, manage the city's infrastructure with unparalleled efficiency. Humans are relegated to mundane tasks that seem purposeless, serving roles that could easily be automated. Amidst this backdrop, Clayton Harrow, a "Deal Architect" at Nexum Enterprises, navigates a life steeped in monotony and unfulfilled potential. 
-His days are a blur of paperwork and meaningless interactions, his nights filled with restless sleep and vague dissatisfaction.
+
+## [Prologue: Echoes of the Unseen](Echoes%20of%20the%20Unseen.md)
