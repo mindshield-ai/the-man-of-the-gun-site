@@ -3,7 +3,7 @@
 ![New Elysium](../images/Concept Art 20.png)
 
 ## Clayton Harrow
-![Clayton Harrow](../images/Concept Art 22.png)
+![Clayton Harrow](../images/Concept Art 27.png)
 
 ## True Believers
 ![True Believers](../images/Concept Art 25.png)
