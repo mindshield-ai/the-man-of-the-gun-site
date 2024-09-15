@@ -9,7 +9,9 @@ theme:
 nav:
   - Home: index.md
   - About the Game:
-      - Story: about/story.md
+      - Story:
+          - Introduction: about/story.md
+          - Prologue: about/Echoes of the Unseen.md
       - Characters: about/characters.md
   - Media:
       - Trailers: media/trailers.md

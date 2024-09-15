@@ -1,0 +1,18 @@
+/* Remove the "Made with Simple Blog for MkDocs" footer text */
+footer {
+    display: none !important;
+}
+
+/* Replace with custom footer text */
+footer:after {
+    content: "Powered by MindShield";
+    display: block;
+    text-align: center;
+    font-size: 0.9em;
+    color: #000; /* You can adjust color here */
+}
+
+/* Remove permalink icons */
+h1 a.headerlink, h2 a.headerlink, h3 a.headerlink, h4 a.headerlink, h5 a.headerlink, h6 a.headerlink {
+    display: none;
+}

@@ -1,0 +1,27 @@
+{
+  "cache": null,
+  "settings": {
+    "accounts": [
+      {
+        "id": "8b6dc4d3-db20-4d10-8276-665834677b18",
+        "name": "davercise",
+        "orgs": [
+          "mindshield-ai"
+        ],
+        "token": "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",
+        "customOAuth": false
+      }
+    ],
+    "defaultPageSize": 10,
+    "showPagination": true,
+    "showRefresh": true,
+    "showExternalLink": true,
+    "logLevel": 0,
+    "tagTooltips": false,
+    "tagShowPRMergeable": false,
+    "cacheIntervalSeconds": 60,
+    "maxCacheAgeHours": 120,
+    "minRequestSeconds": 60
+  },
+  "dataVersion": 1
+}

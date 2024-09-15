@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "8dadf0dcf4e000c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4daeae6638e4a930",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f433931daa07ce9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/about/Echoes of the Unseen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27c4a0d044dda369",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7fbb7741c566e2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bbed6025f1592c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddab45be5b0f8c7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cbf6e05bf6cf36a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "fab543141a5f9eb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b31f372ea95f9ee4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/about/Echoes of the Unseen.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a2e35573b4001bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6e9f215b6a2917c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ca7952b7c82a6de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/about/Echoes of the Unseen.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4300461f9020da1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/about/Echoes of the Unseen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ba0cb3d3ed26a06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "58984c7cad63bae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bf5588819d5e9ba",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "docs/about/Echoes of the Unseen.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 546.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f433931daa07ce9a",
+  "lastOpenFiles": [
+    "site/media/trailers/index.html",
+    "site/media/gallery/index.html",
+    "site/media/dev-updates/index.html",
+    "site/media/trailers",
+    "site/media/gallery",
+    "site/media/dev-updates",
+    "site/media",
+    "site/about/Echoes of the Unseen/index.html",
+    "site/about/story/index.html",
+    "site/about/characters/index.html",
+    "site/about/Echoes of the Unseen",
+    "site/assets/img/logo.png",
+    "site/images/The Dining Philosophers History.gif",
+    "site/images/Shiniza.gif",
+    "site/images/Kettleback.gif",
+    "site/images/Concept Art 9.webp",
+    "site/images/Concept Art 8.webp",
+    "site/images/Concept Art 27.png",
+    "site/images/Concept Art 26.png",
+    "site/images/Concept Art 25.png",
+    "site/images/Concept Art 22.png",
+    "docs/about/characters.md",
+    "docs/about/Echoes of the Unseen.md",
+    "docs/about/story.md",
+    "docs/about/Chapter 1 The Finale.md"
+  ]
+}
