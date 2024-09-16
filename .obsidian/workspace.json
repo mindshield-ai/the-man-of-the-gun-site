@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/about/Echoes of the Unseen.md",
+                "file": "docs/about/characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/about/Echoes of the Unseen.md"
+                "file": "docs/about/characters.md"
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/about/Echoes of the Unseen.md",
+                "file": "docs/about/characters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/about/Echoes of the Unseen.md",
+                "file": "docs/about/characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/about/Echoes of the Unseen.md",
+                "file": "docs/about/characters.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,6 +194,7 @@
   },
   "active": "f433931daa07ce9a",
   "lastOpenFiles": [
+    "docs/about/Echoes of the Unseen.md",
     "site/media/trailers/index.html",
     "site/media/gallery/index.html",
     "site/media/dev-updates/index.html",
@@ -204,7 +205,6 @@
     "site/about/Echoes of the Unseen/index.html",
     "site/about/story/index.html",
     "site/about/characters/index.html",
-    "site/about/Echoes of the Unseen",
     "site/assets/img/logo.png",
     "site/images/The Dining Philosophers History.gif",
     "site/images/Shiniza.gif",
@@ -216,7 +216,6 @@
     "site/images/Concept Art 25.png",
     "site/images/Concept Art 22.png",
     "docs/about/characters.md",
-    "docs/about/Echoes of the Unseen.md",
     "docs/about/story.md",
     "docs/about/Chapter 1 The Finale.md"
   ]
