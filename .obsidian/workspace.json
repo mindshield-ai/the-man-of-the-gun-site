@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/about/characters.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/about/characters.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/about/characters.md",
+                "file": "docs/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/about/characters.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/about/characters.md",
+                "file": "docs/index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,6 +195,14 @@
   "active": "f433931daa07ce9a",
   "lastOpenFiles": [
     "docs/about/Echoes of the Unseen.md",
+    "docs/about/The Fractured Mirror.md",
+    "docs/about/story.md",
+    "docs/media/dev-updates.md",
+    "docs/media/trailers.md",
+    "docs/media/gallery.md",
+    "docs/about/characters.md",
+    "The Fractured Mirror.md",
+    "The.md",
     "site/media/trailers/index.html",
     "site/media/gallery/index.html",
     "site/media/dev-updates/index.html",
@@ -215,8 +223,6 @@
     "site/images/Concept Art 26.png",
     "site/images/Concept Art 25.png",
     "site/images/Concept Art 22.png",
-    "docs/about/characters.md",
-    "docs/about/story.md",
     "docs/about/Chapter 1 The Finale.md"
   ]
 }

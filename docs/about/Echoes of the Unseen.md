@@ -1,4 +1,7 @@
 ## Echoes of the Unseen
 In a world much like our own, where technology and routine dictate the flow of daily life, there exists a hidden layer of reality known only to a select few. This layer, the Soul Communication Network (SCN), is an ancient, metaphysical web that influences thoughts, emotions, and the very essence of existence. Unbeknownst to the masses, the SCN has been both a source of enlightenment and a tool for manipulation throughout human history.
+
 In the sprawling metropolis of New Elysium, technology and routine dictate the flow of life. Advanced AI systems, operating from unseen servers and backends, manage the city's infrastructure with unparalleled efficiency. Humans are relegated to mundane tasks that seem purposeless, serving roles that could easily be automated. Amidst this backdrop, Clayton Harrow, a "Deal Architect" at Nexum Enterprises, navigates a life steeped in monotony and unfulfilled potential. 
+
 His days are a blur of paperwork and meaningless interactions, his nights filled with restless sleep and vague dissatisfaction.
+
