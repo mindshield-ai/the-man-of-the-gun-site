@@ -2,10 +2,11 @@ site_name: The Man of The Gun
 site_description: A dark, narrative-driven action game
 site_author: MindShield Studios
 site_url: https://tmotg.minshield.ai
+
 extra:
   meta:
     - name: 'google-site-verification'
-      content: <meta name="google-site-verification" content="i7-uLw3KgNwO1WkIvmnSHWRmecGQGxSruRyE7Ws9sKs" />
+      content: 'i7-uLw3KgNwO1WkIvmnSHWRmecGQGxSruRyE7Ws9sKs'
 
 theme:
   name: 'simple-blog'
@@ -13,13 +14,14 @@ theme:
 nav:
   - Home: index.md
   - About the Game:
-      - Story: about/story.md
+      - Story:
+          - Introduction: about/story.md
+          - Prologue: about/Echoes of the Unseen.md
       - Characters: about/characters.md
   - Media:
       - Trailers: media/trailers.md
       - Gallery: media/gallery.md
       - Development Updates: media/dev-updates.md
-
   - Contact: contact.md
 
 plugins:
@@ -33,5 +35,3 @@ markdown_extensions:
   - codehilite
   - toc:
       permalink: false
-
-
