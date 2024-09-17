@@ -22,7 +22,6 @@ nav:
       - Trailers: media/trailers.md
       - Gallery: media/gallery.md
       - Development Updates: media/dev-updates.md
-
   - Contact: contact.md
 
 plugins:
