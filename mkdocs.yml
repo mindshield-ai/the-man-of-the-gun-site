@@ -29,3 +29,8 @@ markdown_extensions:
   - codehilite
   - toc:
       permalink: false
+
+extra:
+  meta:
+    - name: 'google-site-verification'
+      content: <meta name="google-site-verification" content="i7-uLw3KgNwO1WkIvmnSHWRmecGQGxSruRyE7Ws9sKs" />
