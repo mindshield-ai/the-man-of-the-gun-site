@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/about/story.md",
+                "file": "docs/about/characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/about/story.md"
+                "file": "docs/about/characters.md"
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/about/story.md",
+                "file": "docs/about/characters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/about/story.md",
+                "file": "docs/about/characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/about/story.md",
+                "file": "docs/about/characters.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,11 +194,11 @@
   },
   "active": "f433931daa07ce9a",
   "lastOpenFiles": [
-    "docs/about/characters.md",
     "docs/index.md",
+    "docs/about/story.md",
+    "docs/about/characters.md",
     "docs/about/Echoes of the Unseen.md",
     "docs/about/The Fractured Mirror.md",
-    "docs/about/story.md",
     "docs/media/dev-updates.md",
     "docs/media/trailers.md",
     "docs/media/gallery.md",

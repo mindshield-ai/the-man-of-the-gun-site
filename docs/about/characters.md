@@ -23,7 +23,7 @@ Kettleback is a strange and unsettling boss character who hobbles about while ca
 ## Ashkaboos  
 ![Ashkaboos](../images/Concept%20Art%209.webp)
 
-Ashkaboos is a shadowy antagonist who serves the Dining Philosophers. Though powerful, he is merely a puppet for the Philosophers, tasked with enforcing their will across the SCN. Ashkaboos’s body is as corrupted as his mind, distorted by years of manipulating the SCN. His presence is both terrifying and tragic as he struggles with his role as an enforcer of the Philosophers' agenda.
+Ashkaboos is a formidable and enigmatic figure who serves the Dining Philosophers with unwavering devotion. A true believer in their vision for the Soul Communication Network (SCN), he enforces their will with a zeal that is both terrifying and compelling. His body, distorted by years of SCN manipulation, reflects the profound changes within his mind. Unlike a mere puppet, Ashkaboos acts out of conviction, believing that his actions serve a greater good—even if it means imposing harsh realities on others. His presence embodies the complex interplay between righteousness and tyranny, making him a haunting adversary whose motives are as unsettling as his methods.
 
 ---
 
