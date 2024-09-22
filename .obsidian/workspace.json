@@ -11,11 +11,9 @@
             "id": "f433931daa07ce9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/about/characters.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/images/Concept Art 25.png"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/about/characters.md"
+                "file": "docs/images/Concept Art 25.png"
               }
             }
           }
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/about/characters.md",
+                "file": "docs/images/Concept Art 25.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/about/characters.md",
+                "file": "docs/images/Concept Art 25.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/about/characters.md",
+                "file": "docs/images/Concept Art 25.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,14 +192,21 @@
   },
   "active": "f433931daa07ce9a",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/about/story.md",
+    "docs/images/Concept Art 26.png",
+    "docs/images/Concept Art 25.png",
+    "docs/media/gallery.md",
     "docs/about/characters.md",
+    "docs/images/Concept Art 27.png",
+    "docs/images/Concept Art 22.png",
+    "docs/images/Concept Art 20.png",
+    "docs/images/Concept Art 15.png",
+    "docs/images/Concept Art 8.webp",
     "docs/about/Echoes of the Unseen.md",
+    "docs/about/story.md",
+    "docs/index.md",
     "docs/about/The Fractured Mirror.md",
     "docs/media/dev-updates.md",
     "docs/media/trailers.md",
-    "docs/media/gallery.md",
     "The Fractured Mirror.md",
     "The.md",
     "site/media/trailers/index.html",
@@ -217,13 +222,6 @@
     "site/assets/img/logo.png",
     "site/images/The Dining Philosophers History.gif",
     "site/images/Shiniza.gif",
-    "site/images/Kettleback.gif",
-    "site/images/Concept Art 9.webp",
-    "site/images/Concept Art 8.webp",
-    "site/images/Concept Art 27.png",
-    "site/images/Concept Art 26.png",
-    "site/images/Concept Art 25.png",
-    "site/images/Concept Art 22.png",
     "docs/about/Chapter 1 The Finale.md"
   ]
 }

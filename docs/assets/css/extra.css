@@ -24,3 +24,23 @@ h1 a.headerlink, h2 a.headerlink, h3 a.headerlink, h4 a.headerlink, h5 a.headerl
     padding: 10px;
   }
 }
+/* Apply to mobile screen sizes */
+@media (max-width: 768px) {
+  .nav-item {
+    position: relative;
+  }
+
+  /* Hide submenu by default */
+  .nav-item .sub-menu {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 100%;
+  }
+
+  /* Show submenu on touch (when the parent is clicked) */
+  .nav-item:focus-within .sub-menu,
+  .nav-item:active .sub-menu {
+    display: block;
+  }
+}
