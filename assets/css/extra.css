@@ -16,3 +16,11 @@ footer:after {
 h1 a.headerlink, h2 a.headerlink, h3 a.headerlink, h4 a.headerlink, h5 a.headerlink, h6 a.headerlink {
     display: none;
 }
+
+/* Ensure hover functionality works on desktop and mobile tap triggers the dropdown */
+@media (hover: none) {
+  .md-nav__link {
+    display: block;
+    padding: 10px;
+  }
+}
