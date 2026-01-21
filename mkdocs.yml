@@ -25,7 +25,7 @@ nav:
       - Gallery: media/gallery.md
       - Development Updates: media/dev-updates.md
   - Contact: contact.md
-  - Main Site: https://themanofofthegun.com
+  - Main Site: https://themanofthegun.com
 
 plugins:
   - search
