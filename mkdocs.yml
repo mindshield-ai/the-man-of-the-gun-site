@@ -12,14 +12,21 @@ extra:
 
 theme:
   name: 'simple-blog'
+  custom_dir: docs/overrides
 
 nav:
   - Home: index.md
-  - About the Game:
-      - Story:
-          - Introduction: about/story.md
-          - Prologue: about/echoes-of-the-unseen.md
-      - Characters: about/characters.md
+  - Story:
+      - Story: story/index.md
+      - Prologue: story/prologue.md
+      - Chapter 1: story/chapter-01-the-fractured-mirror.md
+      - Chapter 2: story/chapter-02-threads-of-reality.md
+      - Chapter 3: story/chapter-03-shadows-of-envy.md
+      - Chapter 4: story/chapter-04-the-weight-of-conviction.md
+      - Chapter 5: story/chapter-05-descent-into-the-abyss.md
+      - Chapter 6: story/chapter-06-echoes-in-the-void.md
+      - Chapter 7: story/chapter-07-shiniza-yakavazes-paradox.md
+  - Characters: about/characters.md
   - Media:
       - Trailers: media/trailers.md
       - Gallery: media/gallery.md
@@ -35,9 +42,6 @@ plugins:
 
 extra_css:
   - assets/css/extra.css
-
-extra_javascript:
-  - assets/js/banner.js
 
 markdown_extensions:
   - admonition
