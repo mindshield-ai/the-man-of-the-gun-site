@@ -26,4 +26,4 @@ jobs:
           pip install mkdocs mkdocs-simple-blog mkdocs-redirects
 
       - name: Deploy to gh-pages
-        run: mkdocs gh-deploy --clean
+        run: mkdocs gh-deploy --clean --force
