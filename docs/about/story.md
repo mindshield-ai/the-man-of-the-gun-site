@@ -18,4 +18,4 @@ Ultimately, Clayton must decide: continue serving as a cog in the network, manip
 
 
 
-## [Prologue: Echoes of the Unseen](Echoes%20of%20the%20Unseen.md)
+## [Prologue: Echoes of the Unseen](echoes-of-the-unseen.md)
