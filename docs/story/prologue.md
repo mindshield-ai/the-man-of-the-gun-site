@@ -1,25 +1,23 @@
 # Prologue: Echoes of the Unseen
 
-The city of New Elysium breathed with a life of its own—a sprawling labyrinth of steel and glass, where towering skyscrapers pierced the heavens and cast long shadows over the streets below. Neon lights flickered incessantly, painting the night with hues of electric blues and vibrant purples. The air was thick with the hum of activity: the distant roar of traffic, the murmur of countless conversations, the whisper of the wind weaving through the alleyways.
+The city of New Elysium breathed with a life of its own—a sprawling labyrinth of steel and glass, where towering skyscrapers pierced the heavens and cast long shadows over the streets below. Neon lights flickered incessantly, painting the night with hues of electric blues and vibrant purples. The air was thick with the hum of activity: the distant roar of traffic, the murmur of countless conversations, the whisper of the wind weaving through the alleyways. Yet, beneath the veneer of ceaseless motion and progress, there lingered an undercurrent of something intangible, something unseen.
 
-Yet beneath the veneer of ceaseless motion and progress, there lingered an undercurrent of something intangible, something unseen.
+Clayton Harrow stood alone on the balcony of his modest apartment on the twenty-third floor, a cigarette smoldering between his fingers. He gazed out over the city's endless expanse, his eyes tracing the chaotic dance of lights that stretched to the horizon. To many, this view would inspire awe—a testament to human ingenuity and the relentless march of technology. But to Clayton, it felt hollow, a grand facade masking an emptiness he couldn't quite articulate.
 
-Clayton Harrow stood alone on the balcony of his modest apartment on the twenty-third floor, a cigarette smoldering between his fingers. He gazed out over the city’s endless expanse, his eyes tracing the chaotic dance of lights that stretched to the horizon. To many, the view would inspire awe. To Clayton, it felt hollow—a grand facade masking an emptiness he could not quite articulate.
+He took a drag from his cigarette, the smoke curling around his face like a phantom's touch. The taste was bitter, but it grounded him, provided a momentary distraction from the gnawing sense of disconnection that had settled in his chest. His days at Nexum Enterprises blurred together—endless meetings, piles of contracts, negotiations that lacked any semblance of genuine human interaction. As a Deal Architect, his role was to construct agreements that maximized profit, minimized risk, and, ultimately, perpetuated a system he found increasingly meaningless.
 
-His days at Nexum Enterprises blurred together: endless meetings, stacks of contracts, negotiations devoid of genuine human connection. As a Deal Architect, his job was to construct agreements that maximized profit and minimized risk, perpetuating a system he found increasingly meaningless.
+Clayton exhaled slowly, watching the smoke dissipate into the night. Somewhere far below, sirens wailed—a brief flare of urgency swallowed by the city's constant thrum. He wondered about the lives unfolding in those streets: the dreams pursued, the hopes dashed, the silent struggles hidden behind stoic faces. Did they feel it too? This pervasive sense that something was fundamentally amiss?
 
-A sudden gust of wind rustled the papers on the small table behind him. He turned just in time to catch a loose document before it slipped over the edge. The text blurred for a fleeting moment, the ink bleeding into unfamiliar symbols—interlocking circles and lines that pulsed faintly.
+A sudden gust of wind swept across the balcony, rustling the papers on the small table behind him. Clayton turned, his gaze drawn to a loose document fluttering perilously close to the edge. He snatched it just before it sailed away, his eyes catching on the text. It was a standard non-disclosure agreement, indistinguishable from dozens he'd drafted that week. Yet, for a fleeting moment, the words seemed to blur, the ink bleeding into unfamiliar symbols—interlocking circles and lines that pulsed faintly.
 
-He blinked. The illusion vanished.
+He blinked, and the illusion vanished. The text was normal once more, pristine and precise. Clayton frowned, a chill creeping up his spine. This wasn't the first time he'd noticed such anomalies. Glitches in his holo-screen displays, fleeting shadows at the corner of his vision, whispers that faded as soon as he tried to listen. He had dismissed them as signs of stress, manifestations of a mind weary from overwork. But now, he wasn't so sure.
 
-This was not the first time he had noticed such anomalies. Glitches in his holo-displays. Shadows at the edge of his vision. Whispers that faded when he tried to listen. He had blamed stress, fatigue, overwork.
+Crushing the cigarette in an ashtray, he stepped back inside, closing the balcony door behind him. The air inside was stale, the minimalist decor offering little comfort. He considered calling someone—a friend, perhaps—but realized he couldn't name a single person he felt close enough to confide in. The realization weighed on him, deepening the isolation that clung to his every thought.
 
-Now, he wasn’t so sure.
+Clayton sank onto the edge of his bed, running a hand through his disheveled hair. He reached for his wrist communicator, hesitating before accessing the health app. The interface glowed softly, a calming blue light that did little to soothe his unease.
 
-Clayton crushed the cigarette into the ashtray and stepped back inside. The apartment felt sterile, empty. He considered calling someone—anyone—but realized he could not name a single person he trusted enough to confide in.
+"Sleep patterns disrupted," the device intoned. "Stress levels elevated. Recommended action: mindfulness exercises or consult a medical professional."
 
-As he lay in bed, staring at the ceiling, a faint vibration began to hum through the walls. Not sound. Not electricity. Something deeper.
+He scoffed, tossing the communicator onto the nightstand. Mindfulness exercises—empty platitudes for a restless mind. Lying back, he stared at the ceiling, tracing the faint patterns cast by the city's glow filtering through the curtains. As exhaustion tugged at the edges of his consciousness, he couldn't shake the feeling that he was standing on the precipice of something profound and unfathomable.
 
-As if the city itself had a heartbeat.
-
-And it was beginning to sync with his own.
+In the silence, a barely perceptible hum began to resonate—a vibration that seemed to emanate from the very walls around him. It was as if the city itself was alive, its heartbeat syncing with his own. Clayton closed his eyes, surrendering to the darkness, unaware that the boundaries of his reality were beginning to blur, and that the echoes of the unseen were drawing ever closer.
