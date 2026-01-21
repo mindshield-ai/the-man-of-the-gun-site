@@ -18,19 +18,26 @@ nav:
   - About the Game:
       - Story:
           - Introduction: about/story.md
-          - Prologue: about/Echoes of the Unseen.md
+          - Prologue: about/echoes-of-the-unseen.md
       - Characters: about/characters.md
   - Media:
       - Trailers: media/trailers.md
       - Gallery: media/gallery.md
       - Development Updates: media/dev-updates.md
   - Contact: contact.md
+  - Main Site: https://themanofofthegun.com
 
 plugins:
   - search
+  - redirects:
+      redirect_maps:
+        about/Echoes of the Unseen.md: about/echoes-of-the-unseen.md
 
 extra_css:
   - assets/css/extra.css
+
+extra_javascript:
+  - assets/js/banner.js
 
 markdown_extensions:
   - admonition
