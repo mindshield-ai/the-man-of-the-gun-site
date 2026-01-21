@@ -1,11 +1,11 @@
 
 ## New Elysium
-![New Elysium](../images/Concept Art 20.png)
+<img loading="lazy" src="../images/Concept%20Art%2020.png" alt="New Elysium">
 
 ## Clayton Harrow
-![Clayton Harrow](../images/Concept Art 27.png)
+<img loading="lazy" src="../images/Concept%20Art%2027.png" alt="Clayton Harrow">
 
 ## True Believers
-![True Believers](../images/Concept Art 25.png)
+<img loading="lazy" src="../images/Concept%20Art%2025.png" alt="True Believers">
 
 More coming soon...
