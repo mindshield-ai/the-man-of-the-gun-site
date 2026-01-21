@@ -1,6 +1,6 @@
 If you have any inquiries or questions, please use the main site contact options:
 
-**https://themanofofthegun.com**
+**https://themanofthegun.com**
 
 ## Email Us
 

@@ -1,16 +1,14 @@
-/* Remove the "Made with Simple Blog for MkDocs" footer text */
-#component-footer small {
-    display: none;
+footer small.d-block.mb-3 {
+    display: none !important;
 }
 
-/* Replace with custom footer text */
-#component-footer:after {
+footer::after {
     content: "Powered by MindShield";
     display: block;
     text-align: center;
     font-size: 0.9em;
     color: #000;
-    padding: 0.5rem 0 1rem;
+    padding: 1rem 0;
 }
 
 /* Remove permalink icons */
@@ -20,11 +18,13 @@ h1 a.headerlink, h2 a.headerlink, h3 a.headerlink, h4 a.headerlink, h5 a.headerl
 
 /* Archive banner */
 .tmotg-archive-banner {
+    width: 100%;
     background: #111;
     color: #fff;
     text-align: center;
     padding: 0.75rem 1rem;
     font-size: 0.95rem;
+    margin-bottom: 0.75rem;
 }
 
 .tmotg-archive-banner a {
