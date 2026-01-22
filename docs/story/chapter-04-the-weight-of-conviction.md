@@ -1,5 +1,3 @@
-## Chapter 4: The Weight of Conviction
-
 The city of New Elysium lay in ruins. Smoke billowed from shattered skyscrapers, and the distant wail of sirens melded with the anguished cries of its citizens. Fires raged unchecked, casting a hellish glow that blotted out the stars. Clayton Harrow stood atop a derelict parking structure, surveying the devastation below. The spear in his hand felt heavier than ever, its once-bright sheen dulled by the blood and grime of countless battles.
 
 Beside him, Seamus leaned against a concrete pillar, his wound hastily bandaged but still seeping crimson. His face was pale, etched with lines of pain and exhaustion.
