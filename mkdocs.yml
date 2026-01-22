@@ -17,15 +17,16 @@ theme:
 nav:
   - Home: index.md
   - Story:
-      - Introduction: story/introduction.md
-      - Prologue: story/prologue.md
-      - Chapter 1: story/chapter-01-the-fractured-mirror.md
-      - Chapter 2: story/chapter-02-threads-of-reality.md
-      - Chapter 3: story/chapter-03-shadows-of-envy.md
-      - Chapter 4: story/chapter-04-the-weight-of-conviction.md
-      - Chapter 5: story/chapter-05-descent-into-the-abyss.md
-      - Chapter 6: story/chapter-06-echoes-in-the-void.md
-      - Chapter 7: story/chapter-07-shiniza-yakavazes-paradox.md
+      - "Cold Open: The First Bruise": story/cold-open-the-first-bruise.md
+      - "Prologue: Echoes of the Unseen": story/prologue-echoes-of-the-unseen.md
+      - "Chapter 1: The Fractured Mirror": story/chapter-01-the-fractured-mirror.md
+      - "Chapter 2: Threads of Reality": story/chapter-02-threads-of-reality.md
+      - "Chapter 3: Shadows of Invy": story/chapter-03-shadows-of-invy.md
+      - "Chapter 4: The Weight of Conviction": story/chapter-04-the-weight-of-conviction.md
+      - "Chapter 5: Descent into the Abyss": story/chapter-05-descent-into-the-abyss.md
+      - "Chapter 6: The Monolith": story/chapter-06-the-monolith.md
+      - "Chapter 7: The Mathematician's Paradox": story/chapter-07-the-mathematicians-paradox.md
+      - "Epilogue: The Table": story/epilogue-the-table.md
   - Characters: about/characters.md
   - Media:
       - Trailers: media/trailers.md
@@ -38,8 +39,10 @@ plugins:
   - search
   - redirects:
       redirect_maps:
-        about/story.md: story/introduction.md
-        about/echoes-of-the-unseen.md: story/prologue.md
+        about/story.md: story/cold-open-the-first-bruise.md
+        about/echoes-of-the-unseen.md: story/prologue-echoes-of-the-unseen.md
+        story/introduction.md: story/cold-open-the-first-bruise.md
+        story/prologue.md: story/prologue-echoes-of-the-unseen.md
 
 extra_css:
   - assets/css/extra.css
