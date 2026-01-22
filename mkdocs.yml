@@ -17,7 +17,7 @@ theme:
 nav:
   - Home: index.md
   - Story:
-      - Story: story/index.md
+      - Introduction: story/introduction.md
       - Prologue: story/prologue.md
       - Chapter 1: story/chapter-01-the-fractured-mirror.md
       - Chapter 2: story/chapter-02-threads-of-reality.md
@@ -30,7 +30,7 @@ nav:
   - Media:
       - Trailers: media/trailers.md
       - Gallery: media/gallery.md
-      - Development Updates: media/dev-updates.md
+      - Dev Updates: media/dev-updates.md
   - Contact: contact.md
   - Main Site: https://themanofthegun.com
 
@@ -38,7 +38,8 @@ plugins:
   - search
   - redirects:
       redirect_maps:
-        about/Echoes of the Unseen.md: about/echoes-of-the-unseen.md
+        about/story.md: story/introduction.md
+        about/echoes-of-the-unseen.md: story/prologue.md
 
 extra_css:
   - assets/css/extra.css

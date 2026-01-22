@@ -1,5 +1,3 @@
-# Chapter 6: Echoes in the Void
-
 At the abyssal core, the SCN speaks with a voice that is not a voice. Clayton feels it mapping his thoughts, rewriting them in real time.
 
 ## The Void's Lesson

@@ -1,5 +1,3 @@
-# Chapter 5: Descent into the Abyss
-
 The trail leads underground, to tunnels flooded with static and salt. Clayton descends with Seamus, listening to the SCN grow louder until it drowns out the city's hum.
 
 ## The Abyss Opens

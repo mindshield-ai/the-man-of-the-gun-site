@@ -1,5 +1,3 @@
-# Chapter 7: Shiniza Yakavaze's Paradox
-
 Clayton emerges to find New Elysium warped by a new presence. Shiniza Yakavaze, bound to a wheelchair but unbound in the SCN, bends reality as if it were a script.
 
 ## The Paradox Revealed

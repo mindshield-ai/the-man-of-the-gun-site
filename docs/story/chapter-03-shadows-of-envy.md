@@ -1,5 +1,3 @@
-# Chapter 3: Shadows of Envy
-
 The corridor opens into an abandoned control hub where the SCN pulses across ancient terminals. Clayton sees them again: fractured doubles, malformed and trembling in the glow.
 
 ## The Invy
