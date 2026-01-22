@@ -1,5 +1,3 @@
-# Prologue: Echoes of the Unseen
-
 The city of New Elysium breathed with a life of its own—a sprawling labyrinth of steel and glass, where towering skyscrapers pierced the heavens and cast long shadows over the streets below. Neon lights flickered incessantly, painting the night with hues of electric blues and vibrant purples. The air was thick with the hum of activity: the distant roar of traffic, the murmur of countless conversations, the whisper of the wind weaving through the alleyways. Yet, beneath the veneer of ceaseless motion and progress, there lingered an undercurrent of something intangible, something unseen.
 
 Clayton Harrow stood alone on the balcony of his modest apartment on the twenty-third floor, a cigarette smoldering between his fingers. He gazed out over the city's endless expanse, his eyes tracing the chaotic dance of lights that stretched to the horizon. To many, this view would inspire awe—a testament to human ingenuity and the relentless march of technology. But to Clayton, it felt hollow, a grand facade masking an emptiness he couldn't quite articulate.

@@ -1,5 +1,3 @@
-# Chapter 2: Threads of Reality
-
 Clayton follows the anomalies through New Elysium's transit grid, where the SCN bleeds through the signal relays. A pattern emerges: every glitch coincides with a surge in the city's hidden network.
 
 ## Seamus Appears

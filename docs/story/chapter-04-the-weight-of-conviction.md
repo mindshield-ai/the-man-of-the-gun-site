@@ -1,5 +1,3 @@
-# Chapter 4: The Weight of Conviction
-
 Seamus takes Clayton to the edge of the network, to a temple of humming machines that once belonged to the Dining Philosophers. The air is heavy with conviction, like a vow etched into the circuitry.
 
 ## The Philosophers' Creed
