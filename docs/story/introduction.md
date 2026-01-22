@@ -11,7 +11,3 @@ Throughout his journey, Seamus O’Driscoll, an old Irish mentor with a deep, so
 The deeper Clayton delves into the SCN’s mysteries, the more he understands the price of power. Those who manipulate the SCN, like the game’s bosses, are left deformed, both physically and mentally. One such figure is Shiniza Yakavaze, an elderly, deformed Japanese man confined to a wheelchair, whose powerful connection to the SCN has twisted his body beyond recognition. Though physically broken, Shiniza wields a power that can alter reality itself, forcing Clayton to question what is real.
 
 Ultimately, Clayton must decide: continue serving as a cog in the network, manipulated by unseen forces, or break free and risk tearing apart the very fabric of the SCN, even if it means losing his humanity entirely.
-
-## Next
-
-[Prologue: Echoes of the Unseen](prologue.md)
