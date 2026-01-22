@@ -1,5 +1,5 @@
 This page has moved.
 
-Please visit the canonical story introduction here:
+Please visit the canonical story opening here:
 
-[Story Introduction](/story/introduction/)
+[Cold Open: The First Bruise](/story/cold-open-the-first-bruise/)

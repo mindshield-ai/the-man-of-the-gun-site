@@ -1,3 +1,3 @@
-The story introduction now lives here:
+The story begins here:
 
-[Story Introduction](introduction.md)
+[Cold Open: The First Bruise](cold-open-the-first-bruise.md)
