@@ -1,5 +1,3 @@
-## Chapter 2: Threads of Reality
-
 The night after his surreal encounter, Clayton Harrow found sleep elusive. His mind replayed the impossible vision of fish swimming through air, buildings warping as if submerged underwater. Every time he closed his eyes, the images resurfaced with startling clarity. When dawn finally broke, he rose from his bed feeling more exhausted than before.
 
 Determined to regain a sense of normalcy, Clayton immersed himself in his work at Nexum Enterprises. The familiar routine of reviewing contracts and structuring deals provided a temporary refuge from the unsettling experiences of the previous day. Yet, beneath the surface of his tasks, a persistent unease gnawed at him.
