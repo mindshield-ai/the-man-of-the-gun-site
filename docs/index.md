@@ -1,6 +1,6 @@
 # The Man of The Gun| by MindShield Studios
 
-**This is the TMOTG Archive (story & lore). Main site: https://themanofthegun.com**
+**This is the TMOTG Archive (Story & Lore). Main site: https://themanofthegun.com**
 
 _Dive into "The Man of The Gun," a dark and gritty narrative-driven action game where reality fractures and nothing is as it seems. Step into the shoes of Clayton Harrow, a disillusioned bureaucrat ensnared by the mysterious Soul Communication Network (SCN). As unseen forces manipulate the very fabric of humanity, Clayton must confront his inner demons and the corrupt entities pulling the strings._
 

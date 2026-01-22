@@ -1,6 +1,4 @@
-The cityscape of New Elysium lay shrouded under a blanket of thick, ominous clouds. Neon lights flickered sporadically, casting distorted reflections on rain-slicked streets. Clayton Harrow moved through the alleys like a specter, his footsteps echoing against the cold concrete walls. The spear he had discovered—the ancient artifact Seamus had spoken of—was strapped securely across his back, its weight both a comfort and a burden.
-
-Ever since his confrontation with the Believers, Clayton had become acutely aware of the invisible threads that seemed to tug at the edges of his perception. The SCN—the Soul Communication Network—was no longer just an abstract concept; it was a living, breathing entity that pulsed around him, whispering secrets he couldn't quite grasp.
+The corridor opens into an abandoned control hub where the SCN pulses across ancient terminals. Clayton sees them again: fractured doubles, malformed and trembling in the glow.
 
 ### The Invy Manifest
 
