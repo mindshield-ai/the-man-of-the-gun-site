@@ -26,7 +26,7 @@ nav:
       - "Chapter 5: Descent into the Abyss": story/chapter-05-descent-into-the-abyss.md
       - "Chapter 6: The Monolith": story/chapter-06-the-monolith.md
       - "Chapter 7: The Mathematician's Paradox": story/chapter-07-the-mathematicians-paradox.md
-      - "Epilogue: The Table": story/epilogue-the-dining-philosophers.md
+      - "Epilogue: The Dining Philosophers": story/epilogue-the-dining-philosophers.md
   - Characters: about/characters.md
   - Media:
       - Trailers: media/trailers.md
