@@ -3,6 +3,60 @@ h1 a.headerlink, h2 a.headerlink, h3 a.headerlink, h4 a.headerlink, h5 a.headerl
     display: none;
 }
 
+:root {
+    --archive-max-width: 720px;
+    --archive-gutter: 1.5rem;
+}
+
+main,
+.md-content,
+.md-main__inner,
+.md-content__inner,
+.content,
+.page-content {
+    max-width: var(--archive-max-width);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: var(--archive-gutter);
+    padding-right: var(--archive-gutter);
+}
+
+main p,
+.md-content p,
+.content p,
+.page-content p {
+    margin-bottom: 1.25rem;
+}
+
+main h2,
+.md-content h2,
+.content h2,
+.page-content h2 {
+    margin-top: 2.5rem;
+}
+
+main h3,
+.md-content h3,
+.content h3,
+.page-content h3 {
+    margin-top: 2rem;
+}
+
+.archive-footer {
+    margin-top: 3rem;
+    color: #6c6c6c;
+    font-size: 0.875rem;
+}
+
+.archive-footer-inner {
+    max-width: var(--archive-max-width);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: var(--archive-gutter);
+    padding-right: var(--archive-gutter);
+    text-align: center;
+}
+
 .video-embed {
     position: relative;
     padding-bottom: 56.25%;
