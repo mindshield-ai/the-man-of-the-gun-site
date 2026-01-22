@@ -27,3 +27,25 @@ h1 a.headerlink, h2 a.headerlink, h3 a.headerlink, h4 a.headerlink, h5 a.headerl
 #component-footer::after {
     content: "Powered by MindShield";
 }
+
+/* Kill any Simple Blog / MkDocs credit text anywhere */
+small, footer, #component-footer {
+  /* no-op: keep layout stable */
+}
+
+/* Hide the specific credit patterns */
+small:has(a[href*="mkdocs-simple-blog"]),
+small:has(a[href*="mkdocs"]),
+footer small:has(a),
+#component-footer small,
+#component-footer small.d-block.mb-3 {
+  display: none !important;
+}
+
+/* Fallback for browsers without :has() — hide common credit containers */
+#component-footer small,
+footer small.d-block,
+footer small.mb-3,
+footer small {
+  display: none !important;
+}
