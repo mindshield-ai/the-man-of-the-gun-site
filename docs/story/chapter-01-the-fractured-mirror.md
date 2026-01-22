@@ -1,5 +1,3 @@
-# Chapter 1: The Fractured Mirror
-
 Morning in New Elysium arrived not with the gentle glow of dawn but with the abrupt illumination of countless screens flickering to life. Clayton Harrow awoke to the sterile buzz of his alarm, the digital display casting a cold light across his sparsely furnished bedroom. He lay there for a moment, eyes fixed on the ceiling, listening to the distant hum of the city that never truly slept. Another day, he thought—a continuation of a routine that felt more like an endless loop than a progression of time.
 
 Dragging himself out of bed, Clayton moved through his apartment with mechanical precision. Shower. Dress. Coffee—black, no sugar. The bitter taste was a familiar companion, a small jolt to jump-start his senses. As he sipped, he glanced at the newsfeed scrolling across his tablet propped up on the kitchen counter. Headlines blurred together: economic forecasts, political debates, celebrity scandals. It all felt inconsequential, a backdrop to the pervasive sense of detachment that clung to him.
