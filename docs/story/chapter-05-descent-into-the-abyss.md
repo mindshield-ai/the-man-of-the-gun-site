@@ -1,229 +1,166 @@
-The sky over New Elysium was a canvas of turbulent grays and blacks, clouds roiling like restless spirits. Lightning forked across the horizon, illuminating the skeletal remains of what was once a thriving metropolis. The air was thick with the stench of smoke and decay, a toxic miasma that clung to the ruins and seeped into the soul.
-
-Clayton Harrow wandered through the desolation, his footsteps echoing hollowly against the cracked pavement. The spear hung loosely in his grip, its once-brilliant luster tarnished by blood and ash. His eyes were vacant, haunted by visions that blurred the line between reality and nightmare.
-
-Beside him, Seamus walked in silence, his face etched with lines of fatigue and concern.
-
-“You haven't said a word in hours,” Seamus remarked cautiously.
-
-Clayton didn't respond immediately. His mind was a labyrinth of fragmented memories and distorted perceptions. Whispers gnawed at the edges of his consciousness—faint echoes that twisted into sinister murmurs.
-
-“Clayton?” Seamus pressed gently. “Are you all right?”
-
-He blinked, as if waking from a trance. “I'm fine,” he lied, his voice devoid of emotion.
-
-Seamus studied him carefully. “We're getting close to the SCN's core. We need to stay focused.”
-
-A flicker of irritation sparked within Clayton. “I said I'm fine,” he snapped.
-
-Seamus raised his hands defensively. “All right. Just checking.”
-
-They continued onward, navigating the labyrinthine streets that had become a twisted mockery of their former selves. Buildings leaned at impossible angles, their foundations warped by the residual energies unleashed during the battle with Ashkaboos. Shadows moved unnaturally, contorting into grotesque shapes that seemed to watch them with malevolent intent.
-
-### The Invy's Insidious Grip
-
-As they delved deeper into the heart of the city, Clayton felt the Invy's presence intensify. The air grew colder, and a creeping dread settled in his bones. The whispers became clearer, coalescing into a cacophony of voices that echoed his darkest thoughts.
-
-“They left you,” one voice taunted. “Alone. Abandoned.”
-
-“You're nothing without us,” another hissed.
-
-He shook his head, trying to dispel the voices. “Do you hear that?” he asked uneasily.
-
-Seamus glanced around. “Hear what?”
-
-“The voices,” Clayton insisted. “They're everywhere.”
-
-Seamus's expression darkened. “The Invy are trying to get inside your head. You need to resist.”
-
-“I'm trying,” Clayton muttered, pressing his palms against his temples. The whispers grew louder, more insistent.
-
-“He's using you,” a voice whispered. “Manipulating you for his own gain.”
-
-Clayton shot a sidelong glance at Seamus. Doubt began to creep in.
-
-“Why didn't you tell me everything from the start?” Clayton demanded.
-
-Seamus hesitated. “I told you what you needed to know.”
-
-“Did you?” Clayton challenged, his grip tightening on the spear. “Or did you only tell me what served your purposes?”
-
-Seamus stopped walking. “What's this about?”
-
-“Maybe you're just like them,” Clayton accused. “The Believers. Ashkaboos. All of you, pulling strings and playing games.”
-
-“That's not true,” Seamus protested. “I'm on your side.”
-
-“Are you?” The whispers swelled, feeding his paranoia. “Or have you been leading me down a path of your choosing?”
-
-Seamus took a cautious step forward. “Listen to me, Clayton. This isn't you talking. It's the Invy. They're warping your perceptions.”
-
-“Shut up!” Clayton roared, the sound echoing unnaturally. “I can't trust you. I can't trust anyone!”
-
-### The Breaking Point
-
-Seamus raised his hands placatingly. “We can get through this. You just need to—”
-
-“Enough lies!” Clayton's eyes blazed with a wild intensity. The spear thrummed with dark energy, resonating with his turmoil.
-
-Before Seamus could react, Clayton swung the spear in a swift arc. The blade sliced through the air, striking Seamus across the chest. Blood sprayed in a crimson arc, and Seamus staggered backward, a look of shock and pain etched on his face.
-
-“Clayton…” he gasped, clutching the wound as blood seeped between his fingers.
-
-Reality seemed to shatter around them. The world warped and twisted, the environment distorting into a nightmarish landscape. The ground cracked open, fissures emitting an eerie glow. Buildings crumbled into dust, dissolving into the swirling abyss.
-
-Clayton stood frozen, the enormity of his actions crashing down upon him. “What have I done?” he whispered, his voice barely audible over the howling winds.
-
-Seamus sank to his knees, his breaths shallow and ragged. “It's… not your fault,” he managed, his gaze locking onto Clayton's. “Fight it… before it's too late.”
-
-Tears blurred Clayton's vision. The whispers turned to mocking laughter, a symphony of derision that pierced his soul.
-
-“You've doomed him,” they jeered. “And now you'll doom yourself.”
-
-“No…” Clayton trembled, dropping the spear. “I didn't mean to…”
-
-The ground beneath Seamus gave way, and he began to slip into the chasm. Desperate, Clayton lunged forward, grasping his mentor's hand.
-
-“I've got you!” he cried, straining to pull him back.
-
-Seamus's grip was weak, his eyes dimming. “You have to… let me go,” he whispered. “Save yourself.”
-
-“I won't!” Clayton insisted, his voice breaking.
-
-Seamus managed a faint smile. “Then… forgive yourself.”
-
-With a final exhale, his hand slipped from Clayton's grasp. Time seemed to slow as Seamus fell into the abyss, his form swallowed by darkness.
-
-“NO!” Clayton screamed, his anguish ripping through the distorted reality.
-
-### The Abyss Stares Back
-
-The environment convulsed, the chasms widening as the cityscape disintegrated. Clayton collapsed to his knees, consumed by grief and self-loathing. The Invy closed in, their shadowy forms encircling him like predators scenting blood.
-
-“Look at what you've become,” they taunted. “A killer. A destroyer.”
-
-He clutched his head, nails digging into his scalp. “Stop it… please…”
-
-“There's only one way to end this,” the voices whispered seductively. “You know what you must do.”
-
-Through the haze of despair, a cold clarity emerged. Clayton's hand moved mechanically to his sidearm—a heavy pistol worn from countless battles. He drew it slowly, the weight familiar yet alien.
-
-“Yes,” the whispers encouraged. “Free yourself.”
-
-He raised the gun, pressing the barrel against his temple. His finger rested on the trigger, trembling.
-
-“Do it,” they urged. “End the pain.”
-
-Tears streamed down his face. Images flashed before his eyes—moments of joy, regret, love, and loss. Seamus's final words echoed in his mind: *Forgive yourself.*
-
-“Forgive me,” he murmured.
-
-He closed his eyes and pulled the trigger.
-
-### Reawakening
-
-Silence. An endless void devoid of sensation. Clayton floated in the abyss, untethered from time and space. He felt neither pain nor peace—only a numb emptiness.
-
-Gradually, a faint sound reached him—a rhythmic pulse, like a distant heartbeat. Light penetrated the darkness, growing brighter until it enveloped him completely.
-
-He gasped, air flooding his lungs as he bolted upright. He was lying on a cold, metallic surface in a dimly lit chamber. The walls curved overhead, etched with intricate patterns that pulsed with a soft glow.
-
-Disoriented, Clayton surveyed his surroundings. “Where am I?” he muttered.
-
-A voice answered from the shadows—a calm, ethereal tone that resonated within his mind.
-
-“You have traversed the depths of despair and emerged anew.”
-
-He turned to see a figure materialize—a woman clad in flowing garments that shimmered like starlight. Her eyes held the wisdom of ages, and her presence exuded serenity.
-
-“Who are you?” Clayton asked warily.
-
-“I am Elysia,” she replied. “A guardian of the SCN.”
-
-He staggered to his feet. “Am I dead?”
-
-She smiled gently. “Not in the way you perceive death. Your physical form remains, but your consciousness has entered the inner sanctum of the SCN.”
-
-“How is that possible?” he demanded. “I… I shot myself.”
-
-“You reached the brink,” Elysia acknowledged. “But the SCN intervened. It sensed your turmoil and brought you here.”
-
-“Why?” he asked, a mix of confusion and anger. “To torment me further?”
-
-“To offer you a choice,” she corrected. “To understand the true nature of the SCN and your place within it.”
-
-He shook his head. “I've had enough of riddles and manipulations. I just want this to end.”
-
-“Endings and beginnings are intertwined,” Elysia said. “Your journey has led you to this pivotal moment. Will you continue to be consumed by the darkness, or will you seek the light within?”
-
-Clayton laughed bitterly. “The light within? I killed my mentor. I couldn't even save myself.”
-
-“Your actions were influenced by forces beyond your control,” she said. “But you have the power to break free.”
-
-“And Seamus?” Clayton asked quietly. “Is he…?”
-
-“His fate rests in the balance,” Elysia admitted. “But all is not lost.”
-
-### Confronting the Self
-
-The chamber shifted, the walls dissolving into a swirling mist. Scenes from Clayton's past materialized—memories he had long buried.
-
-He saw himself as a child, isolated and misunderstood. The loneliness that had shaped him. The choices that led him down solitary paths. The yearning for connection he never voiced.
-
-“These are the fragments of your soul,” Elysia explained. “The wounds that the Invy exploited.”
-
-“I don't need to see this,” Clayton protested, turning away.
-
-“To heal, you must confront the pain,” she insisted. “Acknowledge it, and let it go.”
-
-The mist coalesced into the visage of Seamus, his eyes filled with compassion.
-
-“You were never alone,” the apparition spoke. “You just needed to let others in.”
-
-Clayton's defenses crumbled. “I didn't know how,” he whispered.
-
-Elysia placed a hand on his shoulder. “It's not too late. Embrace who you are—all of it. The strength and the vulnerability.”
-
-He closed his eyes, allowing the emotions to wash over him. The guilt, the sorrow, the fear—they surged and then receded, leaving a quiet acceptance in their wake.
-
-When he opened his eyes, the chamber had transformed into a tranquil landscape—a field of golden grass swaying gently under a clear, star-studded sky.
-
-### A New Resolve
-
-“What's happening?” he asked softly.
-
-“You are forging a new path,” Elysia replied. “One where you are in harmony with the SCN, rather than at war with it.”
-
-Clayton took a deep breath, the air crisp and invigorating. “What must I do?”
-
-“Return,” Elysia said. “But with the understanding that you are the master of your destiny, not a pawn of fate.”
-
-“And the Believers? The Invy?”
-
-“They are challenges to be faced, not insurmountable obstacles,” she affirmed. “With clarity and purpose, you can overcome them.”
-
-He nodded, a newfound determination settling within him. “And Seamus?”
-
-She smiled enigmatically. “His journey is intertwined with yours. Seek him, and you may find redemption for you both.”
-
-The light intensified once more, enveloping him in warmth.
-
-“Thank you,” he whispered as his consciousness began to fade.
-
-“Farewell, Clayton Harrow,” Elysia's voice echoed. “May your path lead you to balance.”
-
-### Return to Reality
-
-Clayton awoke with a start, lying on the same cold pavement where he had fallen. The city around him was eerily silent, the chaos subdued.
-
-He sat up cautiously, half-expecting the nightmare to resume. But the whispers were gone, replaced by a calm stillness.
-
-The spear lay nearby, its surface restored to its former brilliance. He picked it up, feeling a resonance that was no longer burdensome but empowering.
-
-Rising to his feet, he surveyed his surroundings. The devastation remained, but there was a subtle difference—a sense of possibility amidst the ruins.
-
-Determined, he set out to find Seamus, hope kindling within him. The path ahead was uncertain, but he was no longer shackled by doubt and fear.
-
-As he moved through the ravaged streets, a faint melody drifted on the breeze—a haunting tune that spoke of loss and renewal.
-
-He smiled faintly. “I'm coming, old friend.”
+They walked for hours through a city that no longer respected geometry.
+New Elysium’s streets buckled into shallow curves. Buildings leaned at angles that made the eye ache. Shadows moved with a delay, as if the light source was unsure when to arrive. The air smelled of smoke and damp stone and something metallic beneath it, like blood hiding under perfume.
+Clayton kept the spear in his hand now instead of on his back. The weapon felt less like a tool and more like a tether. Every time the hum rose, the etched symbol along the shaft seemed to hold steady, like a tuning fork refusing to lie.
+Seamus moved beside him in silence, face drawn tight. His wound had reopened more than once, and Clayton had re‑bandaged it with whatever cloth they could steal from abandoned stores. The blood would not stop. It seeped with patient insistence, as if the body was tired of pretending it belonged to itself.
+“You haven’t spoken since the rooftop,” Seamus said finally, voice cautious.
+Clayton stared ahead. “There’s nothing to say.”
+Seamus’s gaze lingered on him. “There’s always something to say. Silence is just another kind of denial.”
+Clayton’s jaw clenched. “We need to find the inner mouths.”
+“Aye,” Seamus agreed. “But we need you whole when we do.”
+Whole. The word felt like a joke.
+They turned down a street that should have led to the waterfront, but instead opened into a corridor of collapsed buildings arranged too neatly, as if the city had been folded by careful hands. The hum sharpened.
+Clayton’s skin prickled. “We’re being guided,” he muttered.
+Seamus glanced at him. “Guided by who?”
+Clayton’s eyes narrowed. “That’s what I’d like to know.”
+The Invy’s presence had been growing for days. At first it had been whispers at the edge of hearing. Then shapes in peripheral vision. Confirmations that arrived a second too early. Now it was voices inside his skull, clear as thought.
+They spoke in his own tone, wearing his voice like stolen clothing.
+They left you.
+He’s using you.
+Clayton clenched his jaw and kept walking.
+Seamus touched his arm lightly. “Clayton. Listen. If you hear them, don’t answer.”
+Clayton jerked his arm away. “Don’t tell me what to do.”
+Seamus frowned. “That wasn’t me trying to control you.”
+“No?” Clayton’s laugh was sharp. “Then what is this? Why are we walking into the center of a city that’s collapsing, guided by hallucinations and a maintenance worker who knew more than he told me?”
+Seamus’s expression tightened. “I told you what you needed to know.”
+Clayton’s grip on the spear whitened his knuckles. “Did you? Or did you tell me what served your purposes?”
+The whispers swelled, feeding his suspicion.
+He’s a Believer.
+He’s a mouth pretending to be a hand.
+Clayton’s stomach churned. He looked at Seamus—the weathered face, the tired eyes, the calm he carried even as reality broke around them.
+Why was he so calm?
+Seamus stopped walking. “This is the Invy pressing you,” he said quietly. “It uses your fear like a lever.”
+Clayton’s jaw clenched. “Or you’re using my ignorance.”
+Seamus’s eyes hardened. “I bled to keep you alive.”
+“Did you,” Clayton snapped, “or did you bleed to bind me to you?”
+The street around them shivered. A window beside them warped, showing a distorted reflection: Clayton standing alone with the spear, Seamus lying dead at his feet, blood pooling in perfect circles.
+Clayton flinched.
+Seamus stepped forward, palms open. “Clayton. Look at me. It’s trying to narrow your options.”
+Clayton heard his own voice in his skull, amused.
+Options. Like a trigger. Like a contract.
+Clayton’s breath came too fast. His vision sharpened at the edges. The hum became a tight cord pulling at his nerves.
+Seamus’s face blurred for a moment, and in its place Clayton saw Ashkaboos’s pitying eyes. The bruised symbol on the healed man’s neck. The suited men’s polite threats.
+Control. Control. Control.
+Clayton’s fear turned into anger because anger was easier to hold.
+“Stop lying,” Clayton growled.
+“I’m not lying,” Seamus insisted. “Listen to me—”
+Seamus reached for him, not to restrain, but to steady—just a hand to a shoulder, a human reflex.
+Clayton mistook it for a grab.
+He swung.
+The spear’s shaft cracked against Seamus’s chest, hard enough to knock the air out of him. Seamus stumbled, eyes wide with surprise. Clayton’s next movement was worse—panic turning into commitment. The blade caught Seamus beneath the ribs.
+Blood came fast. Real, warm, undeniable.
+Seamus staggered backward, mouth opening on a sound that didn’t arrive.
+“Clayton…” he breathed.
+Clayton froze.
+The world held its breath.
+Reality cracked.
+The ground beneath them split with a sound like tearing fabric. A fissure opened, glowing faintly from within, emitting a low chord that matched the hum in Clayton’s teeth. Buildings around them leaned, then crumbled into dust as if they had never been built of matter at all.
+Clayton stared at Seamus, mind blank.
+“What have I done?” he whispered.
+Seamus sank to his knees, clutching the wound. His breathing became ragged, each inhale shallow. He looked up at Clayton with something like compassion still alive in his gaze.
+“It’s… not what you think,” Seamus managed, voice wet. “Fight it. Before it narrows you to nothing.”
+The whispers turned to laughter.
+You did it. You always do.
+Clayton dropped the spear as if it had burned him. He lunged forward, grabbing Seamus’s arm to keep him from tipping toward the widening fissure.
+“I’ve got you,” Clayton said, voice breaking. “I’ve got you.”
+Seamus’s grip was weak. “You have to… let me go,” he whispered. “Save yourself.”
+“I won’t,” Clayton hissed, pulling, muscles shaking.
+Seamus’s eyes softened. “Then forgive yourself,” he said, the words barely audible over the roar of the collapsing street.
+His hand slipped.
+Seamus fell into the darkness.
+Clayton screamed, the sound ripping raw out of him. The fissure widened as if fed by the grief.
+He stumbled back, shaking. The spear lay on the ground, its symbol dark, indifferent.
+Clayton’s vision blurred. He felt the corridor tightening—every path narrowing, every door leading back to the same room.
+He reached for his revolver with trembling hands.
+Four in. Hold. Six out.
+He tried, but the breath wouldn’t settle. The cadence broke under the weight of what he’d done.
+Clayton raised the gun to his head.
+For a moment, he hesitated—not from fear of death, but from the sudden, sick awareness that death might not even belong to him anymore.
+Then he pulled the trigger.
+The shot was loud, intimate, and then everything went black.
+He expected oblivion.
+He woke in light.
+Not sunlight. Not the city’s artificial glow. A pale, diffuse illumination that seemed to come from everywhere at once. Clayton lay on a smooth surface that felt neither stone nor metal—something between. The air smelled clean in the way hospitals smelled clean: stripped of life.
+He sat up slowly, breathing hard, hands patting his own body. No wound. No blood. No bullet hole.
+His revolver lay beside him, heavy and useless.
+The spear was there too.
+Clayton looked around.
+He was in a vast chamber with no visible walls. The space extended into mist. In the mist floated fragments—equations, symbols, memories—not like projections but like matter suspended in a liquid medium. Faces drifted past, half‑formed, dissolving and reforming: strangers, coworkers, the disheveled man on the metro, Seamus’s eyes widening in shock.
+Clayton’s stomach turned. “Where am I?”
+A voice answered from behind him.
+“Below the corridor.”
+Clayton spun.
+A woman stood a few steps away, hands folded at her waist. She was dressed simply, in dark clothing that absorbed the light. Her face was calm, but not warm. Her eyes were too steady, as if she had watched too many endings to react to one.
+Clayton’s throat tightened. “Who are you?”
+The woman tilted her head slightly. “Elysia,” she said, as if a name was a function.
+Clayton laughed bitterly. “Another guide. Another manipulator.”
+Elysia’s gaze did not change. “Not a guide,” she said. “A response.”
+“A response to what?”
+“To drift,” Elysia replied. “To corruption. To the bruise deepening.”
+Clayton stared at her, heart hammering. “I shot myself.”
+“Yes,” Elysia said. “You attempted self‑destruction.”
+Clayton flinched at the clinical phrasing.
+Elysia continued, voice even. “You did not complete it.”
+Clayton’s jaw clenched. “So I can’t even die on my own terms.”
+Elysia’s eyes held his. “Terms are a human illusion,” she said. “The layer does not care about your dignity. It only responds to pressure.”
+Clayton’s breath came shallow. “Why bring me here?”
+Elysia stepped closer. The mist shifted, revealing a floating fragment: bruised skin mapping circles and lines. Another fragment: cells under a microscope, aligning, then misaligning, then aligning again as if forced back into rhythm.
+Elysia didn’t answer with a lecture. She tilted the fragments toward him the way a doctor turned a screen. Buildings were the loud part. Bodies were the quiet part. And the quiet part was where the real damage hid.
+Clayton stared at the floating images, nausea rising. “So it’s real,” he whispered. “The thing they do to flesh.”
+Elysia nodded once. “Real enough to leave a bruise you can’t sue anyone for,” she said.
+Clayton’s hands curled into fists. “Who’s doing it?”
+“The Dining Philosophers put words on it,” Elysia said. “The True Believers put hands on it.”
+She gestured, and the mist filled with more fragments—hospital corridors overflowing, patients folding in half as if grief had weight, cells aligning and slipping, tumors blooming like fungal growth and then fading under robed palms only to return as patterned bruises.
+Clayton’s stomach churned. “They break you and call it mercy.”
+Elysia regarded him without warmth. “Sometimes the break arrives first,” she said. “Sometimes what they offer is only a choice of which kind of collapse you live through.”
+Clayton felt cold. “Seamus,” he whispered. “Is he alive?”
+Elysia’s eyes held his, and for the first time something like pity flickered, faint as a shadow.
+“He is dead,” she said. “His body is gone. The city swallows evidence the way it swallows stray thoughts.”
+Clayton’s throat tightened. “But—”
+“There is residue,” Elysia continued. “Echo. Pattern. Fragments you might retrieve if you survive long enough to learn how. But you will not resurrect him. Don’t confuse an echo with forgiveness.”
+Clayton’s knees trembled. He forced himself to breathe. The chamber’s clean air felt like an insult.
+Elysia’s voice softened by a degree—not comfort, more like reduced pressure. “You wanted to escape,” she said. “You tried to collapse yourself to get quiet.”
+Clayton stared at her. “What do you want from me?”
+“To keep the bruise from becoming a tear,” Elysia said.
+“And how do I do that?”
+Elysia lifted a hand and placed it near his temple without touching. Clayton felt pressure—not pain, but intrusion. A cold thumb pressing against a memory.
+He jerked back. “Don’t.”
+Elysia’s hand lowered. “You will be pressed whether you consent or not,” she said. “I’m offering you pressure that doesn’t lie about being kindness.”
+Clayton swallowed hard. “Then tell me.”
+“The layer doesn’t invent monsters,” Elysia said. “It enlarges what’s already in you. Invy is a fracture—envy, grief, shame—given momentum until it learns to walk. It wears your face because your face is available.”
+Clayton’s jaw clenched. “So I’m fighting myself.”
+“You are fighting your incompletion,” Elysia replied. “And you are fighting people who build order out of other people’s cracks.”
+She gestured again. A memory formed between them: Clayton in Nexum’s cafeteria, looking up at the young woman with the bandaged wrist, feeling grief that wasn’t his.
+Clayton’s breath caught.
+Elysia’s voice dropped. “You felt her because the layer thinned between you,” she said. “Sometimes the world leans people together. The Dining Philosophers lean harder until you call it fate.”
+Clayton’s throat tightened. “Who is she?”
+“A variable,” Elysia said. “A wound. A mirror. A cost.”
+Clayton’s fists clenched. “Tell me her name.”
+Elysia’s gaze sharpened. “Names are anchors,” she said. “Earn it.”
+Clayton’s anger flared, but it had nowhere to go.
+“What do I do now?” he demanded.
+Elysia stepped back. “Return,” she said. “And understand this: when you open yourself to the hum, it opens you back. Your breath is the only hinge you reliably own. Use it. Don’t worship it.”
+Clayton swallowed. “And if I refuse?”
+Elysia’s expression remained calm. “Then you will become useful anyway,” she said. “The True Believers will soothe you into a leash. The Dining Philosophers will draft you into architecture. The Invy will settle into your fractures. Either way, you will not belong to yourself.”
+Clayton’s breath hitched. “So there is no choice.”
+Elysia’s eyes held his. “There is always choice,” she said softly. “But it is rarely between good and evil. It is between different kinds of damage.”
+The light in the chamber brightened.
+Clayton felt a pull, as if the floor beneath him had become a current.
+Elysia’s voice reached him as his consciousness began to slip away.
+“Don’t trust gentle coincidence,” she said. “And don’t mistake survival for victory.”
+The chamber dissolved.
+Clayton woke on cold pavement beneath a sky the color of bruised flesh.
+Ash hung in the air. Silence pressed against the ruins. The hum throbbed low and steady, as if the city had accepted its new heartbeat.
+Clayton sat up, gasping, hands trembling.
+His right ear rang with a thin whistle—the afterimage of the shot. The taste of burnt powder clung to the back of his throat. When he ran his tongue over his teeth, something sharp snagged: a chipped molar.
+He turned his head and saw a fresh crater punched into the concrete wall behind him, blackened at the edges. A neat bruise in the city’s skin. The bullet had gone somewhere, even if his body had refused to.
+His revolver lay beside him.
+The spear lay across his lap, heavy and real.
+He looked around.
+There were no bodies.
+No Seamus. No bloodstain. No proof of the violence he had committed except the bruise inside his ribs.
+The city had swallowed its evidence.
+Clayton stared into the empty street until his eyes burned.
+Then he stood.
+He did not feel cleansed.
+He felt marked.
+And somewhere beneath the ruins, the corridor rearranged itself, waiting to see what he would do next.
