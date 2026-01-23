@@ -1,137 +1,142 @@
-The night after his surreal encounter, Clayton Harrow found sleep elusive. His mind replayed the impossible vision of fish swimming through air, buildings warping as if submerged underwater. Every time he closed his eyes, the images resurfaced with startling clarity. When dawn finally broke, he rose from his bed feeling more exhausted than before.
-
-Determined to regain a sense of normalcy, Clayton immersed himself in his work at Nexum Enterprises. The familiar routine of reviewing contracts and structuring deals provided a temporary refuge from the unsettling experiences of the previous day. Yet, beneath the surface of his tasks, a persistent unease gnawed at him.
-
-### Seeking Answers
-
-During a midday break, Clayton sat alone in the company cafeteria, pushing a salad around his plate without appetite. Snippets of conversations drifted by—office gossip, weekend plans, complaints about traffic. The mundanity of it all felt suffocating. Desperate for understanding, he pulled out his tablet and began searching for explanations.
-
-He delved into forums dedicated to unexplained phenomena, sifting through accounts of hallucinations, shared dreams, and collective consciousness theories. One thread caught his attention: discussions about a concept referred to as the Soul Communication Network, or SCN—a metaphysical layer connecting all living beings through thoughts and emotions.
-
-Intrigued, Clayton read on. Contributors spoke of moments when they felt emotions that weren't their own, of seeing glimpses of a reality beyond the physical world. Some claimed that certain individuals could tap into this network, experiencing heightened perceptions or even influencing others subconsciously.
-
-As he absorbed this information, Clayton felt a resonance. The inexplicable visions, the sense of something lurking beneath the fabric of reality—it all aligned with what he was experiencing.
-
-### Emergence of the SCN
-
-Over the following days, Clayton became acutely aware of fluctuations in his emotions. Walking down the bustling streets of New Elysium, he would be struck by sudden waves of sadness, anger, or joy that seemed disconnected from his own feelings. Passing a stranger, he felt a surge of anxiety; entering a crowded elevator, a burst of elation. It was as if he were a tuning fork, vibrating in response to frequencies emitted by those around him.
-
-One evening, while riding the metro home, he noticed a man sitting across from him—a disheveled figure muttering under his breath. As Clayton watched, the man's whispers became audible, forming coherent sentences about voices and visions. Suddenly, a jolt of fear shot through Clayton, so intense that he gripped the edge of his seat. The man's eyes met his, and for a moment, there was a shared understanding, a bridge between their minds. Then the train lurched to a stop, and the connection severed.
-
-Clayton stumbled onto the platform, his heart racing. The incident confirmed his suspicions: he was tapping into the SCN, whether by choice or not.
-
-### Confronting Seamus
-
-Recalling his cryptic conversation with Seamus O'Driscoll, Clayton sought him out the next day. He found the maintenance worker in a quiet corridor, repairing a flickering light fixture.
-
-“Seamus,” Clayton called out, approaching cautiously.
-
-Seamus glanced over his shoulder. “Ah, Mr. Harrow. To what do I owe the pleasure?”
-
-“I need to talk to you. About… what we discussed before,” Clayton said, lowering his voice.
-
-Seamus set down his tools and faced him fully. “Seems you've got more questions.”
-
-“It's happening more frequently—the visions, the emotions that aren't mine. I think I'm connecting to something called the Soul Communication Network.”
-
-Seamus studied him for a long moment before nodding slowly. “Walk with me.”
-
-They moved to a secluded area near the building's mechanical room, away from prying eyes and ears.
-
-“You've stumbled upon the SCN,” Seamus confirmed. “A rare occurrence, but not unheard of.”
-
-“What is it, exactly?” Clayton pressed.
-
-“It's an ancient network, a web that connects all living souls,” Seamus explained. “Thoughts, feelings, even memories can traverse it. Most remain oblivious to its presence, but a few become… attuned.”
-
-“Why me?”
-
-“Perhaps you're more receptive, or perhaps it's calling to you,” Seamus mused. “But be warned—the SCN is a double-edged sword.”
-
-“Meaning?”
-
-“Just as it can offer insight and connection, it can also expose you to the darker aspects of humanity,” Seamus said gravely. “There are those who seek to manipulate it for their own ends.”
-
-### The Believers Revealed
-
-Clayton recalled the whispers he'd encountered online about a secretive group. “I've heard mentions of a group called the Believers.”
-
-Seamus's expression hardened. “They prefer to call themselves the Dining Philosophers—silent guardians of a new world order, or so they believe. They operate behind the scenes, molding the future with unseen hands.”
-
-“Are they dangerous?”
-
-“Extremely,” Seamus warned. “Guided by ancient secrets and unyielding conviction, they weave a tapestry of control and influence over the SCN. They consider themselves righteous, but their methods are far from benevolent.”
-
-“What do they want?”
-
-“To shape destiny according to their vision,” Seamus replied. “They believe that by controlling the SCN, they can guide humanity toward what they deem a better path. But in truth, they strip away free will, manipulating emotions and thoughts to serve their agenda.”
-
-A chill ran down Clayton's spine. “Why hasn't anyone stopped them?”
-
-“They operate in shadows, their existence known to few,” Seamus said. “And those who oppose them often… disappear.”
-
-### Learning About the SCN
-
-Seamus offered to teach Clayton how to protect himself. “You need to learn how to shield your mind, to control your connection to the SCN. Left unchecked, you could become vulnerable to their influence.”
-
-They began meeting discreetly, with Seamus guiding Clayton through meditation techniques and mental exercises to strengthen his defenses. He taught him to distinguish between his own emotions and those seeping in from the network, to close himself off when necessary.
-
-During their sessions, Seamus shared more about the SCN's history. “Throughout time, there have been individuals and groups who've tapped into the network. Some sought enlightenment, others power. Ancient civilizations rose and fell, their fates intertwined with their mastery—or misuse—of the SCN.”
-
-“Do you think the Believers were involved?” Clayton asked.
-
-“Perhaps not in their current form, but the ideology persists,” Seamus said. “The names change, but the desire for control remains.”
-
-### Warnings and Cautions
-
-“Remember,” Seamus cautioned during one session, “the SCN amplifies what's within. If you carry fear, doubt, or envy, it can manifest in ways you might not expect.”
-
-“Envy?” Clayton echoed.
-
-“Yes. Invy, as some call it—the shadow of envy that corrupts both soul and body. If you're not careful, it can consume you.”
-
-### Conflict Introduced
-
-As Clayton's abilities grew, he noticed he was being watched. Unmarked cars idled near his apartment, and unfamiliar faces appeared in places they shouldn't. One evening, he received an anonymous message on his tablet:
-
-**We know who you are. Stop digging.**
-
-He showed the message to Seamus.
-
-“They're onto you,” Seamus said grimly. “The Believers are aware of your awakening.”
-
-“What should I do?”
-
-“Stay vigilant. Trust no one.”
-
-### Foreshadowing the Invy
-
-Unbeknownst to Clayton, his growing connection to the SCN had not gone unnoticed by other entities within the network. Shadows began to stir—manifestations of negative energy drawn to his burgeoning abilities. The air around him grew colder, and he often felt a presence lurking just beyond his sight.
-
-One afternoon, while walking through a crowded plaza, he caught sight of a figure that mirrored his own appearance, watching him from across the way. When he looked again, it was gone. The incident left him unsettled.
-
-“Be careful,” Seamus warned when Clayton recounted the experience. “The Invy are fragments of the self, born from unresolved emotions. They can become dangerous if ignored.”
-
-### Conclusion of Chapter
-
-As the days passed, Clayton's world became a labyrinth of secrets and hidden threats. He juggled the demands of his job at Nexum Enterprises with his clandestine training, all while evading the ever-watchful eyes of the Believers.
-
-One evening, as he and Seamus parted ways after a training session, a group of men in dark suits emerged from the shadows, blocking his path.
-
-“Mr. Harrow,” one of them intoned. “We'd like to have a word.”
-
-Clayton's heart pounded. He glanced over his shoulder, but Seamus had already disappeared into the night.
-
-“I'm afraid I'm in a hurry,” Clayton replied, trying to keep his voice steady.
-
-“You're becoming involved in matters beyond your understanding,” the man continued. “For your own safety, it's best you desist.”
-
-“Is that a threat?”
-
-“A precaution,” the man said, his eyes cold. “The Dining Philosophers have taken an interest in you.”
-
-Without warning, the men advanced. Instinctively, Clayton tapped into the SCN, focusing his thoughts as Seamus had taught him. A surge of energy pulsed through him, and for a brief moment, the world seemed to slow. He dodged past them, adrenaline propelling him forward as he sprinted down the street.
-
-He didn't stop running until he reached the safety of his apartment, his mind racing. The confrontation confirmed his worst fears—the Believers were real, and they saw him as a threat.
-
-As he locked the door behind him, Clayton knew there was no turning back. The threads of reality were unraveling, and he was caught in the center of a web far more intricate than he could have imagined.
+Clayton slept badly.
+He did not dream. He did not rest. He lay in the shallow dark and listened to the hum beneath the building, beneath the city, beneath his own pulse. When morning arrived, it did not feel like a new day. It felt like the continuation of a question.
+At Nexum, he tried to bury himself in work. He drafted agreements with the same precision he always had, but the words looked wrong on the page. As if the language was only pretending to mean what it meant.
+At lunch, he sat alone in the cafeteria and watched his coworkers talk in clusters. Their mouths moved. Their faces performed engagement. Their laughter sounded like a recording of laughter.
+Clayton opened his tablet and searched for the letters that had lodged in his mind like a splinter.
+SCN.
+The search results were a mess of acronyms and junk. He refined it. Soul Communication Network. That phrase, repeated in threads that looked like they had been posted by people who had stopped caring whether anyone believed them.
+He clicked into a forum post titled: CORRIDOR EFFECT — NOT A METAPHOR.
+The first paragraph was incoherent fear. The second was specificity.
+A woman described standing in a grocery aisle and tasting strangers’ emotions like metal on her tongue. A man described waking with bruises in geometric patterns and finding the same symbol on his prescription bottle and on the underside of his office chair. Someone posted a photograph of interlocking circles and lines etched into a concrete wall.
+Clayton’s stomach tightened. It was the same symbol.
+He scrolled.
+Another thread: DRIFT SICKNESS.
+The posts were quieter there, less dramatic, written by people trying not to panic. A nurse described clusters of cancers appearing in patterns that did not make sense epidemiologically. A lab technician wrote about tissue samples showing “alignment drift,” cells behaving as if their timing had slipped—like a choir falling out of sync.
+Then a term appeared—strange, clinical, almost official.
+Remote Cell Synchrony Modification.
+No one explained what it meant. They wrote around it like people circling a grave.
+“They can do it at a distance,” one post said. “Not radio. Not gas. Not poison. Like the air remembering you.”
+Clayton’s throat went dry.
+His hand trembled. He set the tablet down and stared at the cafeteria’s tiled floor until the grout lines stopped looking like a grid and started looking like a trap.
+A sudden wave of grief hit him so hard he almost choked.
+It was not his grief. He had nothing to grieve. He had engineered his life to avoid attachment.
+He looked up.
+Across the room, the young woman from the elevator sat alone at a corner table with her hands wrapped around a cup she wasn’t drinking. Her eyes were fixed on nothing. The bandage on her wrist was fresh. Her shoulders held themselves as if expecting a blow.
+Clayton met her gaze by accident.
+For a second, the hum rose between them like a wire pulled tight. The woman’s eyes widened as if she had felt it too. Her mouth opened, as if to speak.
+Then the moment snapped. A group of coworkers crossed his line of sight. When Clayton looked again, the woman was gone.
+The grief drained away, leaving his chest hollow and cold.
+Clayton rubbed his temple, trying to convince himself he was imagining things. He didn’t have the luxury of becoming the kind of man who believed in invisible networks.
+But his body didn’t care what he believed.
+In the days that followed, he began to feel things in public that did not belong to him. Anger in an elevator. Sudden shame on a sidewalk. A burst of joy so sharp it made him dizzy, coming from a stranger passing too close.
+It wasn’t mind reading. It was worse, because it was intimate without permission. It was being brushed by other people’s insides.
+On the metro one evening, a disheveled man sat across from him, muttering under his breath. Clayton tried not to listen. He tried not to look. But the man’s whispers cut through his defenses anyway.
+“They are tuning us,” the man said, voice shaking. “They are tuning the meat. They are writing in the blood.”
+Clayton’s stomach lurched. A jolt of fear shot through him, so intense he had to grip the edge of the seat.
+The man looked up and locked eyes with him.
+For a second, Clayton felt the man’s terror inside his own ribs, raw and immediate, and he knew this wasn’t empathy. This was intrusion.
+The train lurched to a stop. The connection severed like a wire cut. The man’s gaze went unfocused, and he went back to muttering to no one.
+Clayton stumbled onto the platform and stood there breathing too hard in a place that smelled like metal and old sweat.
+He needed answers from someone who didn’t sound like a forum thread.
+Seamus O’Driscoll was not difficult to find. Clayton saw him in a corridor near the mechanical rooms, changing a flickering light fixture as if time could be fixed with a screwdriver.
+“Seamus,” Clayton said, voice low.
+Seamus didn’t startle. He didn’t even look surprised.
+“Aye,” he said, finishing his work before turning. “You heard the hum properly, then.”
+Clayton’s jaw clenched. “I don’t know what I heard. I don’t know what’s happening. But people online—they’re talking about something called the Soul Communication Network.”
+Seamus studied him for a long moment. His eyes were tired, but not confused. The expression on his face was the expression of a man watching someone walk toward a cliff he remembers falling from.
+“You’ve stumbled into it,” Seamus said finally. “Or it has stumbled into you. Hard to say which.”
+“What is it?” Clayton demanded.
+Seamus wiped his hands on a rag. “An old layer. Older than any wire. It runs through living souls the way humidity runs through this city. Thoughts, feelings, memories—they can echo across it. Most folk never notice. Some are born deaf to it. Some learn to close the door.”
+“And me?”
+Seamus’s mouth tightened. “You’re attuned. Either by accident, or because you’ve been rubbed raw enough to hear what others can’t.”
+Clayton thought of the message from the unknown sender. YOU WILL HEAR THE HUM SOON.
+He swallowed. “I read about a group. The Believers.”
+Seamus’s expression hardened, the casual mask cracking. “People call them that because it’s easier than looking at what they do.”
+“What are they?”
+“The True Believers,” Seamus said, and the phrase carried contempt. “Hands. Priests. Fieldworkers. The ones who do the grabbing in the dark.”
+“And the Dining Philosophers?” Clayton asked, the words tasting wrong.
+Seamus’s gaze sharpened, as if Clayton had stepped onto a dangerous tile. “The mouths,” he said. “The ones who never touch the blood.”
+Clayton frowned. “So that’s it? Two groups.”
+“Aye,” Seamus said. “Everything else you hear is slang. The street’s language for a thing it doesn’t want to name.”
+Clayton’s pulse quickened. “They can manipulate the SCN?”
+Seamus let out a breath. “They can exploit it,” he said. “They can stack coincidences until you swear you chose the path yourself. They can flood you with borrowed emotion until you can’t tell what’s yours. They can push the body’s timing out of rhythm and call it sickness.”
+Clayton’s voice shook. “And that remote modification—what they do to people?”
+The look Seamus gave him was a warning. “That’s the knife,” he said quietly. “That’s the part where it stops being argument and becomes flesh.”
+Clayton’s mouth went dry. “It’s real.”
+“Aye,” Seamus said. “And it’s older than the name. In old languages, they called the corruption that rides this layer by another word.”
+He hesitated, as if tasting something bitter.
+“Invy,” Seamus said.
+Clayton frowned. “Envy?”
+“Not the petty kind,” Seamus replied. “The ancient kind. The kind that grows in a man when he can’t stand being incomplete.”
+Clayton thought of the threads online—people attacked by versions of themselves, faces wearing their own like masks. His skin prickled.
+“Why hasn’t anyone stopped them?” Clayton asked.
+Seamus’s jaw tightened. “Because most people never know they’re being touched. And those who do know either learn silence or get removed from the story.”
+Clayton’s hands curled into fists. “What do they want from me?”
+Seamus looked at him as if weighing truth against safety.
+“They want something they can lean on,” Seamus said, eyes fixed on Clayton as if the corridor itself might be listening. “Someone loud enough to be heard on the layer, stubborn enough not to split the moment the pressure rises. Call it a conductor if you need a word. I try not to give them the dignity of clean definitions.”
+Clayton felt cold.
+A vibration crawled up his spine as if the hum had decided to listen closer.
+“Teach me,” Clayton said, surprising himself with the steadiness of his voice. “How to protect myself.”
+Seamus’s eyes narrowed. “You don’t protect yourself from this by learning tricks,” he said. “You protect yourself by learning cadence. When the hum thickens into a chorus, even metal forgets its timing—but your lungs are still yours, if you keep them.”
+“What cadence?”
+Seamus glanced up at the camera dome in the corner, then motioned Clayton deeper into the service corridor where the air smelled of dust and ozone.
+“Breathe,” Seamus said.
+Clayton blinked. “I’m breathing.”
+“Not like that,” Seamus replied, and his tone turned hard. “This layer rides panic. It loves it. Panic makes you porous. So you breathe like you’re holding a door shut. Shielding, they call it. I call it holding the latch with your ribs.”
+Seamus demonstrated—four slow counts in, a held beat like bracing a shoulder to a latch, then a longer exhale that emptied him down to bone. It was not calming. It was control by discipline.
+Clayton tried. His lungs rebelled. His chest hurt. The hum pressed against him.
+“Again,” Seamus said.
+They did it until Clayton’s throat burned. Until sweat dampened his collar. Until the intrusive emotions outside the corridor’s concrete thinned, not because the world got quiet, but because Clayton stopped letting it in.
+Seamus nodded, once. “That’s the start,” he said. “You’ll learn how to shut it out. And when you need to open it—when you need to see what’s hidden—you’ll learn how to open it without letting it eat you alive. The Philosophers call that Weaving. I call it risk.”
+Clayton swallowed. “And if I fail?”
+Seamus’s eyes were bleak. “Then the Invy will find the crack you already carry,” he said. “And the Believers will offer you relief that feels like mercy and behaves like a leash.”
+Over the next week, Seamus met Clayton in places without cameras—stairwells, service corridors, the dead space behind the building’s façade. He taught him how to tell his own emotion from borrowed emotion. He taught him how to recognize a corridor forming: the repeated symbol, the same phrase in three mouths, the same turn presented like fate. He taught him to breathe through it instead of obeying it.
+It was exhausting work. Clayton would leave sessions with headaches like nails and a metallic taste in his mouth. Once, he found bruising along his ribs shaped like partial circles, as if a symbol had tried to stamp itself into him and failed halfway.
+He didn’t tell Seamus. He didn’t want to hear confirmation.
+Then the suited men appeared.
+Clayton left the building after hours and found three men waiting near the curb. Dark suits. Clean shoes. No company badges. The kind of men who did not exist on organizational charts.
+“Mr. Harrow,” one of them said. His voice was polite in the way a threat could be polite. “We’d like to have a word.”
+Clayton’s heart hammered. The hum rose.
+“I’m in a hurry,” Clayton said, keeping his tone flat.
+“You are becoming involved in matters beyond your understanding,” the man continued. “For your own safety, it’s best you desist.”
+Clayton’s breath hitched. “Is that a threat?”
+“A precaution,” the man replied. “The True Believers are patient, but the Table is not.”
+The interlocking symbol gleamed on a ring on the man’s hand, subtle as a signature.
+The suited men stepped forward.
+Clayton’s body reacted before his mind chose. His breath caught—then Seamus’s cadence kicked in, automatic, like muscle memory. Four in. Hold. Six out. The world’s edges sharpened. The pressure became readable instead of crushing.
+Clayton slipped between them as if the corridor had momentarily widened. He didn’t know whether he had moved faster than normal or whether their timing had stuttered.
+He ran.
+He didn’t stop until he reached the maintenance corridor where Seamus had told him to meet if he ever felt hunted.
+Seamus was already there, leaning against a door marked AUTHORIZED PERSONNEL ONLY, as if he had been waiting for the scene to arrive.
+“They found you,” Seamus said.
+Clayton’s voice shook with adrenaline. “They were in suits. They knew my name.”
+Seamus’s expression darkened. “Warnings first,” he said. “Containment. Polite pressure. If you keep moving, the robes come after.”
+Clayton swallowed. “What do I do?”
+Seamus turned and keyed the door open. Behind it was a narrow service stairwell descending into a space that smelled of dust and old metal.
+“Come,” Seamus said. “If you’re going to keep walking this path, you’ll need an anchor.”
+Clayton followed him down.
+In a storage room lit by a single flickering bulb, Seamus pulled aside a tarp. Something long and wrapped lay beneath it like a body.
+He unfolded the cloth with careful hands.
+A spear.
+Not decorative. Not ceremonial. It looked ancient, but not in the romantic way. It looked like an object that had survived because it had always been meant to survive. The blade was etched with the interlocking circles and lines, deeper and more deliberate than any glitch on a screen. The metal seemed to drink the light around it.
+Clayton stared. “What is that?”
+“An anchor,” Seamus said. “A stabilizer. A thing the Philosophers fear because it doesn’t obey their tuning.”
+Clayton hesitated. “Where did you get it?”
+Seamus’s eyes flickered with something like regret. “From a man who died begging me not to let it fall into clean hands.”
+The hum rose, swelling until Clayton felt it in his teeth.
+Seamus nodded toward the spear. “Touch it.”
+Clayton’s pulse thudded. “Why?”
+“Because if you don’t,” Seamus said, “the corridor will decide for you. And it will not be gentle.”
+Clayton reached out.
+The moment his fingers brushed the shaft, pain lanced through his forearm like electricity. His vision flared white, then black, then filled with patterns—circles and lines assembling, disassembling, reassembling. He smelled ozone. He tasted blood.
+In the dark behind his eyes, he saw a dining table in a room with no windows. He saw hands passing bread while outside a city burned. He saw robed figures kneeling. He saw a man in a wheelchair made of carved wood, holding a pistol like a theorem.
+Then the vision snapped away.
+Clayton staggered, coughing. Blood dotted the floor.
+Seamus caught his shoulder. “That’s the cost,” he said quietly. “It hurts to be relevant.”
+Clayton wiped his mouth with the back of his hand and looked at the spear again. The symbol etched into it did not flicker. It did not hide. It existed as if it had always been waiting for his skin.
+He felt, for the first time, that his life was not simply meaningless routine. It was a pattern being measured.
+Clayton’s fingers tightened around the spear.
+“Teach me,” he said again, voice hoarse. “Not just to defend myself. Teach me how to break their corridor.”
+Seamus held his gaze for a long moment.
+Then he nodded, once.
+“Right,” Seamus said. “Then welcome to the part of the world that does not forgive ignorance.”
