@@ -1,0 +1,105 @@
+/* Remove permalink icons */
+h1 a.headerlink, h2 a.headerlink, h3 a.headerlink, h4 a.headerlink, h5 a.headerlink, h6 a.headerlink {
+    display: none;
+}
+
+:root {
+    --archive-max-width: 720px;
+    --archive-gutter: 1.5rem;
+}
+
+main,
+.md-content,
+.md-main__inner,
+.md-content__inner,
+.content,
+.page-content {
+    max-width: var(--archive-max-width);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: var(--archive-gutter);
+    padding-right: var(--archive-gutter);
+}
+
+main p,
+.md-content p,
+.content p,
+.page-content p {
+    margin-bottom: 1.25rem;
+}
+
+main h2,
+.md-content h2,
+.content h2,
+.page-content h2 {
+    margin-top: 2.5rem;
+}
+
+main h3,
+.md-content h3,
+.content h3,
+.page-content h3 {
+    margin-top: 2rem;
+}
+
+.archive-footer {
+    margin-top: 3rem;
+    color: #6c6c6c;
+    font-size: 0.875rem;
+}
+
+.archive-footer-inner {
+    max-width: var(--archive-max-width);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: var(--archive-gutter);
+    padding-right: var(--archive-gutter);
+    text-align: center;
+}
+
+.video-embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.video-embed iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+#component-footer small {
+    display: none;
+}
+
+#component-footer::after {
+    content: "Powered by MindShield";
+}
+
+/* Kill any Simple Blog / MkDocs credit text anywhere */
+small, footer, #component-footer {
+  /* no-op: keep layout stable */
+}
+
+/* Hide the specific credit patterns */
+small:has(a[href*="mkdocs-simple-blog"]),
+small:has(a[href*="mkdocs"]),
+footer small:has(a),
+#component-footer small,
+#component-footer small.d-block.mb-3 {
+  display: none !important;
+}
+
+/* Fallback for browsers without :has() — hide common credit containers */
+#component-footer small,
+footer small.d-block,
+footer small.mb-3,
+footer small {
+  display: none !important;
+}
